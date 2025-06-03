@@ -1,0 +1,1489 @@
+,country,year,sex_code,sex_label,cancer_code,cancer_site,cases_per_100k
+0,Estonia,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.1
+1,Lithuania,2012,F,Female,CICDTUME,Malignant neoplasms,224.0
+2,Mexico,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,33.4
+3,Mexico,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,29.9
+4,Netherlands,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,56.7
+5,Japan,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",24.6
+6,Iceland,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.0
+7,India,2012,F,Female,CICDTUME,Malignant neoplasms,97.4
+8,Spain,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.6
+9,Spain,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.2
+10,Japan,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.1
+11,Japan,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",41.7
+12,Japan,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",49.3
+13,Spain,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.8
+14,China (People’s Republic of),2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.1
+15,Mexico,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,27.3
+16,United Kingdom,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",23.7
+17,United Kingdom,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",24.9
+18,United Kingdom,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",21.8
+19,United Kingdom,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",25.8
+20,Italy,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",59.4
+21,Costa Rica,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,45.4
+22,Italy,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.5
+23,Italy,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",45.4
+24,Italy,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",58.0
+25,Iceland,2008,_T,Total,CICDTUME,Malignant neoplasms,290.4
+26,Iceland,2002,_T,Total,CICDTUME,Malignant neoplasms,286.5
+27,Iceland,2012,_T,Total,CICDTUME,Malignant neoplasms,284.3
+28,Türkiye,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",13.2
+29,Türkiye,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",9.1
+30,Türkiye,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",20.5
+31,United States,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",34.1
+32,United States,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",44.6
+33,United States,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.5
+34,New Zealand,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,89.4
+35,Iceland,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.9
+36,Iceland,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.8
+37,Estonia,2012,M,Male,CICDTUME,Malignant neoplasms,321.9
+38,Estonia,2008,M,Male,CICDTUME,Malignant neoplasms,285.2
+39,Türkiye,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",26.0
+40,Türkiye,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",26.5
+41,Germany,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.8
+42,Germany,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",42.4
+43,Germany,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",46.7
+44,Germany,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",50.3
+45,Türkiye,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",34.7
+46,India,2012,M,Male,CICDTUME,Malignant neoplasms,92.4
+47,Greece,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",11.5
+48,Denmark,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.0
+49,Denmark,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.5
+50,Denmark,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.7
+51,Denmark,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.2
+52,Greece,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",11.2
+53,Greece,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.6
+54,Greece,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",13.6
+55,United States,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",49.5
+56,United States,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",44.2
+57,United States,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",61.9
+58,New Zealand,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",23.4
+59,New Zealand,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",20.5
+60,New Zealand,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",23.2
+61,Costa Rica,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,67.5
+62,France,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.4
+63,France,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.3
+64,France,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.0
+65,France,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.4
+66,Luxembourg,2008,F,Female,CICDTUME,Malignant neoplasms,254.4
+67,Luxembourg,2012,F,Female,CICDTUME,Malignant neoplasms,259.6
+68,Luxembourg,2002,F,Female,CICDTUME,Malignant neoplasms,254.2
+69,Luxembourg,2000,F,Female,CICDTUME,Malignant neoplasms,233.2
+70,Norway,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.8
+71,Norway,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.4
+72,Norway,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",34.8
+73,Türkiye,2008,F,Female,CICDTUME,Malignant neoplasms,112.8
+74,Türkiye,2002,F,Female,CICDTUME,Malignant neoplasms,91.2
+75,Türkiye,2012,F,Female,CICDTUME,Malignant neoplasms,161.6
+76,Lithuania,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.4
+77,Portugal,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",6.0
+78,Portugal,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",5.5
+79,Spain,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.3
+80,Lithuania,2012,M,Male,CICDTUME,Malignant neoplasms,311.8
+81,Japan,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,51.5
+82,Japan,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,42.7
+83,Japan,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,32.7
+84,United Kingdom,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.5
+85,United Kingdom,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",34.7
+86,United Kingdom,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.0
+87,United Kingdom,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",31.8
+88,Norway,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.1
+89,Colombia,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",12.5
+90,Indonesia,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,40.3
+91,Norway,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.8
+92,Norway,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.2
+93,Iceland,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",34.9
+94,Iceland,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",34.0
+95,Sweden,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,82.7
+96,Sweden,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,87.8
+97,Sweden,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,81.0
+98,Sweden,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,80.4
+99,Denmark,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,31.2
+100,Denmark,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,91.3
+101,Denmark,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,72.5
+102,Iceland,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.9
+103,Denmark,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,39.3
+104,Mexico,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",7.0
+105,Indonesia,2012,_T,Total,CICDTUME,Malignant neoplasms,133.5
+106,Mexico,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",7.9
+107,Mexico,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",8.9
+108,Belgium,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",43.8
+109,Belgium,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",43.8
+110,Belgium,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.8
+111,Belgium,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",35.3
+112,Finland,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.1
+113,Finland,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",21.8
+114,Finland,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",22.8
+115,Finland,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",20.1
+116,Indonesia,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.3
+117,United States,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.2
+118,United States,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.1
+119,United States,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",33.7
+120,Costa Rica,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",16.4
+121,Italy,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",34.4
+122,Italy,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",34.2
+123,Italy,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",24.5
+124,Italy,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",26.7
+125,Slovenia,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",33.9
+126,Slovenia,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",31.5
+127,Colombia,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,51.3
+128,Japan,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.2
+129,Japan,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.5
+130,Japan,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.9
+131,Italy,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.1
+132,Italy,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.7
+133,Italy,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.7
+134,Italy,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,8.1
+135,Slovenia,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.7
+136,Slovenia,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",17.5
+137,Belgium,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.7
+138,India,2012,_T,Total,CICDTUME,Malignant neoplasms,94.0
+139,Belgium,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.7
+140,Belgium,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.5
+141,Belgium,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.9
+142,Canada,2008,M,Male,CICDTUME,Malignant neoplasms,325.9
+143,Canada,2002,M,Male,CICDTUME,Malignant neoplasms,327.4
+144,Canada,2012,M,Male,CICDTUME,Malignant neoplasms,320.8
+145,Luxembourg,2012,_T,Total,CICDTUME,Malignant neoplasms,280.3
+146,Luxembourg,2008,_T,Total,CICDTUME,Malignant neoplasms,284.0
+147,Luxembourg,2002,_T,Total,CICDTUME,Malignant neoplasms,296.7
+148,Luxembourg,2000,_T,Total,CICDTUME,Malignant neoplasms,271.2
+149,Hungary,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,57.9
+150,Hungary,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,63.0
+151,Switzerland,2002,_T,Total,CICDTUME,Malignant neoplasms,284.6
+152,Switzerland,2000,_T,Total,CICDTUME,Malignant neoplasms,247.3
+153,Switzerland,2012,_T,Total,CICDTUME,Malignant neoplasms,287.0
+154,Hungary,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,54.5
+155,Switzerland,2008,_T,Total,CICDTUME,Malignant neoplasms,269.3
+156,United Kingdom,2002,_T,Total,CICDTUME,Malignant neoplasms,273.6
+157,United Kingdom,2000,_T,Total,CICDTUME,Malignant neoplasms,247.3
+158,Estonia,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",22.2
+159,Estonia,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",22.6
+160,Hungary,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,18.0
+161,Hungary,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,16.6
+162,Hungary,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,15.7
+163,United Kingdom,2012,_T,Total,CICDTUME,Malignant neoplasms,272.9
+164,United Kingdom,2008,_T,Total,CICDTUME,Malignant neoplasms,269.4
+165,Czechia,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,16.2
+166,Czechia,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,13.8
+167,Czechia,2012,F,Female,CICDTUME,Malignant neoplasms,258.9
+168,Czechia,2008,F,Female,CICDTUME,Malignant neoplasms,252.5
+169,Czechia,2002,F,Female,CICDTUME,Malignant neoplasms,247.6
+170,New Zealand,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,91.9
+171,New Zealand,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,85.0
+172,Chile,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",13.3
+173,Chile,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",14.0
+174,Ireland,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",34.9
+175,Ireland,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.1
+176,Canada,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,79.8
+177,Canada,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,83.2
+178,Canada,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,84.3
+179,Ireland,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.1
+180,Ireland,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.5
+181,Sweden,2002,_T,Total,CICDTUME,Malignant neoplasms,264.7
+182,Sweden,2000,_T,Total,CICDTUME,Malignant neoplasms,256.1
+183,China (People’s Republic of),2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",14.2
+184,Chile,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",17.1
+185,Chile,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.9
+186,Sweden,2012,_T,Total,CICDTUME,Malignant neoplasms,270.0
+187,Sweden,2008,_T,Total,CICDTUME,Malignant neoplasms,259.7
+188,Indonesia,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.9
+189,Brazil,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.2
+190,Brazil,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,59.5
+191,Switzerland,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,56.6
+192,Switzerland,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,107.2
+193,Switzerland,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.3
+194,Switzerland,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.0
+195,Switzerland,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.7
+196,Switzerland,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.7
+197,Switzerland,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,91.3
+198,Switzerland,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,77.3
+199,Netherlands,2000,_T,Total,CICDTUME,Malignant neoplasms,276.5
+200,Netherlands,2012,_T,Total,CICDTUME,Malignant neoplasms,304.8
+201,Israel,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.6
+202,Israel,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,5.6
+203,Netherlands,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.3
+204,Netherlands,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.3
+205,Netherlands,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.8
+206,Netherlands,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,5.4
+207,Netherlands,2008,_T,Total,CICDTUME,Malignant neoplasms,289.9
+208,Netherlands,2002,_T,Total,CICDTUME,Malignant neoplasms,283.0
+209,Colombia,2012,M,Male,CICDTUME,Malignant neoplasms,175.2
+210,Colombia,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",11.0
+211,Chile,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,34.8
+212,Chile,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,40.1
+213,Iceland,2008,M,Male,CICDTUME,Malignant neoplasms,315.1
+214,Iceland,2002,M,Male,CICDTUME,Malignant neoplasms,288.4
+215,Iceland,2012,M,Male,CICDTUME,Malignant neoplasms,299.5
+216,Canada,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.6
+217,Canada,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.7
+218,Canada,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.3
+219,Czechia,2008,M,Male,CICDTUME,Malignant neoplasms,343.6
+220,Czechia,2002,M,Male,CICDTUME,Malignant neoplasms,330.9
+221,Czechia,2012,M,Male,CICDTUME,Malignant neoplasms,345.9
+222,Iceland,2002,F,Female,CICDTUME,Malignant neoplasms,284.5
+223,Iceland,2012,F,Female,CICDTUME,Malignant neoplasms,274.2
+224,Iceland,2008,F,Female,CICDTUME,Malignant neoplasms,273.1
+225,New Zealand,2002,F,Female,CICDTUME,Malignant neoplasms,298.8
+226,New Zealand,2012,F,Female,CICDTUME,Malignant neoplasms,274.3
+227,Estonia,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.2
+228,Estonia,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.4
+229,New Zealand,2008,F,Female,CICDTUME,Malignant neoplasms,287.1
+230,Germany,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,77.3
+231,Germany,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,82.7
+232,Germany,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,60.5
+233,Germany,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,53.6
+234,Italy,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,74.4
+235,Italy,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,64.9
+236,Switzerland,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.6
+237,Switzerland,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",21.5
+238,Switzerland,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.2
+239,Switzerland,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.8
+240,Italy,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,91.3
+241,Italy,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,86.3
+242,Estonia,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,51.6
+243,Estonia,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,50.2
+244,Slovenia,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.5
+245,Slovenia,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,13.7
+246,Canada,2012,_T,Total,CICDTUME,Malignant neoplasms,295.7
+247,Canada,2008,_T,Total,CICDTUME,Malignant neoplasms,296.6
+248,Canada,2002,_T,Total,CICDTUME,Malignant neoplasms,299.9
+249,Estonia,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,19.9
+250,Estonia,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,15.8
+251,Türkiye,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",9.1
+252,Türkiye,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",8.5
+253,Türkiye,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",13.1
+254,Japan,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.5
+255,Japan,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",22.8
+256,Japan,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.5
+257,Netherlands,2002,M,Male,CICDTUME,Malignant neoplasms,314.6
+258,Netherlands,2008,M,Male,CICDTUME,Malignant neoplasms,318.4
+259,Netherlands,2000,M,Male,CICDTUME,Malignant neoplasms,299.6
+260,Netherlands,2012,M,Male,CICDTUME,Malignant neoplasms,327.8
+261,Norway,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,76.2
+262,Norway,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,74.8
+263,Norway,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,73.1
+264,Belgium,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,102.3
+265,Belgium,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,74.2
+266,Belgium,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,57.5
+267,Belgium,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,90.9
+268,Australia,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.9
+269,Portugal,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",8.3
+270,Portugal,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",6.0
+271,Latvia,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,52.1
+272,South Africa,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.7
+273,Colombia,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,18.7
+274,Canada,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",42.5
+275,Canada,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",40.3
+276,Canada,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",55.8
+277,Denmark,2002,F,Female,CICDTUME,Malignant neoplasms,285.5
+278,Denmark,2000,F,Female,CICDTUME,Malignant neoplasms,296.9
+279,Denmark,2012,F,Female,CICDTUME,Malignant neoplasms,328.8
+280,Denmark,2008,F,Female,CICDTUME,Malignant neoplasms,312.9
+281,Israel,2012,_T,Total,CICDTUME,Malignant neoplasms,283.2
+282,Israel,2008,_T,Total,CICDTUME,Malignant neoplasms,288.3
+283,United Kingdom,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,52.2
+284,United Kingdom,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,40.2
+285,United Kingdom,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,73.2
+286,United Kingdom,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,79.7
+287,Slovenia,2012,_T,Total,CICDTUME,Malignant neoplasms,296.3
+288,Slovenia,2008,_T,Total,CICDTUME,Malignant neoplasms,264.8
+289,Poland,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.9
+290,Latvia,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",7.9
+291,Poland,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.2
+292,Poland,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.7
+293,Greece,2002,M,Male,CICDTUME,Malignant neoplasms,234.9
+294,Greece,2000,M,Male,CICDTUME,Malignant neoplasms,225.1
+295,Greece,2012,M,Male,CICDTUME,Malignant neoplasms,194.8
+296,Greece,2008,M,Male,CICDTUME,Malignant neoplasms,187.6
+297,Netherlands,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.9
+298,Netherlands,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",41.6
+299,Netherlands,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",47.5
+300,Netherlands,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",43.3
+301,Norway,2012,F,Female,CICDTUME,Malignant neoplasms,277.1
+302,Norway,2008,F,Female,CICDTUME,Malignant neoplasms,265.7
+303,Norway,2002,F,Female,CICDTUME,Malignant neoplasms,260.5
+304,Sweden,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",17.8
+305,Sweden,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.8
+306,Sweden,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.1
+307,Sweden,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",18.5
+308,New Zealand,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.6
+309,New Zealand,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",37.3
+310,New Zealand,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.2
+311,Finland,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.9
+312,Finland,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",33.4
+313,Finland,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.8
+314,Finland,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.9
+315,Iceland,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.3
+316,Iceland,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.0
+317,Iceland,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",31.0
+318,Italy,2002,F,Female,CICDTUME,Malignant neoplasms,231.7
+319,Italy,2000,F,Female,CICDTUME,Malignant neoplasms,217.8
+320,Slovenia,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,66.5
+321,Slovenia,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,65.5
+322,Italy,2012,F,Female,CICDTUME,Malignant neoplasms,255.2
+323,Italy,2008,F,Female,CICDTUME,Malignant neoplasms,251.6
+324,Luxembourg,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.9
+325,Luxembourg,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",37.5
+326,Luxembourg,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.3
+327,Luxembourg,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.4
+328,China (People’s Republic of),2012,_T,Total,CICDTUME,Malignant neoplasms,174.0
+329,South Africa,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",11.9
+330,Australia,2008,M,Male,CICDTUME,Malignant neoplasms,360.5
+331,Australia,2002,M,Male,CICDTUME,Malignant neoplasms,347.2
+332,Australia,2012,M,Male,CICDTUME,Malignant neoplasms,373.9
+333,Israel,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,84.3
+334,Israel,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,55.1
+335,Australia,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.2
+336,Australia,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.8
+337,Australia,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",21.5
+338,Greece,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",17.5
+339,Greece,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.5
+340,United Kingdom,2012,F,Female,CICDTUME,Malignant neoplasms,267.3
+341,United Kingdom,2008,F,Female,CICDTUME,Malignant neoplasms,249.5
+342,United Kingdom,2002,F,Female,CICDTUME,Malignant neoplasms,260.6
+343,United Kingdom,2000,F,Female,CICDTUME,Malignant neoplasms,234.3
+344,Greece,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",13.5
+345,Greece,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",13.3
+346,United Kingdom,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.2
+347,United Kingdom,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.3
+348,United Kingdom,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.9
+349,United Kingdom,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.3
+350,Lithuania,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,48.7
+351,Portugal,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.0
+352,Portugal,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.6
+353,Portugal,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",41.8
+354,Portugal,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.6
+355,Luxembourg,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,8.7
+356,Luxembourg,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,3.6
+357,Luxembourg,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.9
+358,Luxembourg,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.3
+359,Lithuania,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,60.9
+360,Costa Rica,2012,M,Male,CICDTUME,Malignant neoplasms,193.5
+361,Japan,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.8
+362,Japan,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,8.0
+363,Netherlands,2000,F,Female,CICDTUME,Malignant neoplasms,253.4
+364,Netherlands,2012,F,Female,CICDTUME,Malignant neoplasms,289.6
+365,Netherlands,2008,F,Female,CICDTUME,Malignant neoplasms,271.3
+366,Japan,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.9
+367,Netherlands,2002,F,Female,CICDTUME,Malignant neoplasms,251.4
+368,Russia,2012,M,Male,CICDTUME,Malignant neoplasms,245.8
+369,Czechia,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,14.1
+370,Slovak Republic,2002,_T,Total,CICDTUME,Malignant neoplasms,263.0
+371,Latvia,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",20.2
+372,Portugal,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,55.5
+373,Portugal,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,55.3
+374,Portugal,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,67.6
+375,Portugal,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,60.0
+376,Slovenia,2012,F,Female,CICDTUME,Malignant neoplasms,251.5
+377,Slovenia,2008,F,Female,CICDTUME,Malignant neoplasms,231.8
+378,Russia,2012,_T,Total,CICDTUME,Malignant neoplasms,204.3
+379,Austria,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.8
+380,Austria,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.9
+381,Latvia,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",58.0
+382,Denmark,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",37.6
+383,Denmark,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.3
+384,Denmark,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.8
+385,Denmark,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.7
+386,Austria,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,11.9
+387,Austria,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,5.8
+388,Colombia,2012,_T,Total,CICDTUME,Malignant neoplasms,160.6
+389,Portugal,2002,F,Female,CICDTUME,Malignant neoplasms,191.1
+390,Portugal,2000,F,Female,CICDTUME,Malignant neoplasms,192.8
+391,Italy,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.6
+392,Italy,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.0
+393,Italy,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.5
+394,Italy,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.9
+395,Portugal,2012,F,Female,CICDTUME,Malignant neoplasms,198.1
+396,Portugal,2008,F,Female,CICDTUME,Malignant neoplasms,190.8
+397,Spain,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.0
+398,Spain,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",43.9
+399,Spain,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",39.7
+400,Spain,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.8
+401,South Africa,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",11.2
+402,Australia,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.0
+403,Australia,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.9
+404,Australia,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.1
+405,United Kingdom,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,8.3
+406,United Kingdom,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.3
+407,United Kingdom,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.1
+408,United Kingdom,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.2
+409,Czechia,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",38.9
+410,Czechia,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",43.0
+411,Norway,2002,M,Male,CICDTUME,Malignant neoplasms,311.5
+412,Norway,2008,M,Male,CICDTUME,Malignant neoplasms,341.1
+413,Norway,2012,M,Male,CICDTUME,Malignant neoplasms,368.7
+414,Czechia,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.3
+415,Austria,2000,M,Male,CICDTUME,Malignant neoplasms,281.9
+416,Austria,2012,M,Male,CICDTUME,Malignant neoplasms,295.2
+417,Austria,2008,M,Male,CICDTUME,Malignant neoplasms,293.5
+418,Austria,2002,M,Male,CICDTUME,Malignant neoplasms,312.9
+419,Netherlands,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,96.8
+420,Netherlands,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,86.7
+421,Netherlands,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,91.6
+422,Netherlands,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,99.0
+423,Australia,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",33.3
+424,Australia,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",32.9
+425,Australia,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",39.5
+426,Türkiye,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",11.0
+427,Türkiye,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",8.8
+428,Türkiye,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",16.6
+429,Türkiye,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.2
+430,Türkiye,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.5
+431,Australia,2012,_T,Total,CICDTUME,Malignant neoplasms,323.0
+432,Australia,2008,_T,Total,CICDTUME,Malignant neoplasms,314.1
+433,Australia,2002,_T,Total,CICDTUME,Malignant neoplasms,312.0
+434,China (People’s Republic of),2012,F,Female,CICDTUME,Malignant neoplasms,139.9
+435,Türkiye,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.3
+436,Korea,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,20.4
+437,Latvia,2012,_T,Total,CICDTUME,Malignant neoplasms,246.8
+438,Korea,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,52.1
+439,Korea,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,38.9
+440,Russia,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,30.1
+441,Australia,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",38.7
+442,Australia,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",41.7
+443,Australia,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",38.4
+444,Italy,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.3
+445,Colombia,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",7.1
+446,Italy,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",41.5
+447,Italy,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.2
+448,Italy,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",39.3
+449,India,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",3.1
+450,India,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",11.0
+451,Sweden,2002,F,Female,CICDTUME,Malignant neoplasms,251.8
+452,Sweden,2000,F,Female,CICDTUME,Malignant neoplasms,250.1
+453,Mexico,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,23.3
+454,Mexico,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,19.2
+455,Mexico,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,29.5
+456,Sweden,2012,F,Female,CICDTUME,Malignant neoplasms,248.7
+457,Sweden,2008,F,Female,CICDTUME,Malignant neoplasms,240.7
+458,Italy,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",10.7
+459,Italy,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",9.0
+460,Italy,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",13.2
+461,Italy,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",11.4
+462,Chile,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.7
+463,Chile,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",14.4
+464,New Zealand,2008,M,Male,CICDTUME,Malignant neoplasms,337.6
+465,New Zealand,2002,M,Male,CICDTUME,Malignant neoplasms,363.1
+466,New Zealand,2012,M,Male,CICDTUME,Malignant neoplasms,320.1
+467,Australia,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.9
+468,Australia,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,5.5
+469,Netherlands,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",62.0
+470,Sweden,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,119.0
+471,Sweden,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,114.2
+472,Sweden,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,90.9
+473,Sweden,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,70.0
+474,Netherlands,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",44.4
+475,Netherlands,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",46.1
+476,Korea,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.0
+477,Korea,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.2
+478,Ireland,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.4
+479,Ireland,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",24.4
+480,Ireland,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.7
+481,Ireland,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",18.7
+482,Korea,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",20.3
+483,Latvia,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,17.3
+484,Denmark,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",45.3
+485,Denmark,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",46.8
+486,Denmark,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",41.6
+487,Denmark,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",43.4
+488,Hungary,2008,M,Male,CICDTUME,Malignant neoplasms,358.4
+489,Hungary,2002,M,Male,CICDTUME,Malignant neoplasms,386.8
+490,Hungary,2012,M,Male,CICDTUME,Malignant neoplasms,356.1
+491,Czechia,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",15.8
+492,Czechia,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",13.3
+493,Czechia,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",17.8
+494,Germany,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,81.8
+495,Germany,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,79.8
+496,Germany,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,73.7
+497,Germany,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,91.6
+498,Poland,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,44.3
+499,Poland,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,24.1
+500,Luxembourg,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.2
+501,Luxembourg,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",18.5
+502,Luxembourg,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",18.2
+503,Luxembourg,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",13.6
+504,Poland,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,35.9
+505,Israel,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",14.4
+506,Israel,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.1
+507,Slovak Republic,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.1
+508,Slovak Republic,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",41.0
+509,Slovak Republic,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.7
+510,Hungary,2008,F,Female,CICDTUME,Malignant neoplasms,238.5
+511,Hungary,2002,F,Female,CICDTUME,Malignant neoplasms,250.7
+512,Hungary,2012,F,Female,CICDTUME,Malignant neoplasms,236.5
+513,Türkiye,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,28.3
+514,Türkiye,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,22.0
+515,Türkiye,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,39.1
+516,Ireland,2002,_T,Total,CICDTUME,Malignant neoplasms,254.3
+517,Ireland,2000,_T,Total,CICDTUME,Malignant neoplasms,254.6
+518,Ireland,2012,_T,Total,CICDTUME,Malignant neoplasms,307.9
+519,Ireland,2008,_T,Total,CICDTUME,Malignant neoplasms,317.0
+520,Russia,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,45.6
+521,Norway,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",26.1
+522,Norway,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",24.7
+523,Norway,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",18.7
+524,Russia,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,15.3
+525,Switzerland,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",44.6
+526,Switzerland,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",48.5
+527,Italy,2002,M,Male,CICDTUME,Malignant neoplasms,321.3
+528,Italy,2000,M,Male,CICDTUME,Malignant neoplasms,290.5
+529,Italy,2012,M,Male,CICDTUME,Malignant neoplasms,312.9
+530,Italy,2008,M,Male,CICDTUME,Malignant neoplasms,310.0
+531,China (People’s Republic of),2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",16.9
+532,Switzerland,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",35.1
+533,Switzerland,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.4
+534,Belgium,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.2
+535,Belgium,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",11.2
+536,Belgium,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.8
+537,Belgium,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.2
+538,South Africa,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,31.7
+539,Indonesia,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",10.1
+540,Greece,2002,_T,Total,CICDTUME,Malignant neoplasms,203.0
+541,Greece,2000,_T,Total,CICDTUME,Malignant neoplasms,191.5
+542,Greece,2012,_T,Total,CICDTUME,Malignant neoplasms,163.0
+543,Greece,2008,_T,Total,CICDTUME,Malignant neoplasms,162.0
+544,Japan,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,22.7
+545,Japan,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,12.6
+546,Portugal,2000,_T,Total,CICDTUME,Malignant neoplasms,231.6
+547,Portugal,2012,_T,Total,CICDTUME,Malignant neoplasms,246.2
+548,Portugal,2008,_T,Total,CICDTUME,Malignant neoplasms,223.2
+549,Portugal,2002,_T,Total,CICDTUME,Malignant neoplasms,237.9
+550,Mexico,2012,_T,Total,CICDTUME,Malignant neoplasms,131.5
+551,Mexico,2008,_T,Total,CICDTUME,Malignant neoplasms,128.4
+552,Mexico,2002,_T,Total,CICDTUME,Malignant neoplasms,147.3
+553,Japan,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,30.4
+554,Costa Rica,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",7.3
+555,Germany,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.5
+556,Germany,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.0
+557,Belgium,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",56.6
+558,Belgium,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",58.0
+559,Belgium,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",75.3
+560,Belgium,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",76.4
+561,Germany,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",39.7
+562,Germany,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.2
+563,Portugal,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.6
+564,Portugal,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.1
+565,Portugal,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",21.1
+566,Slovak Republic,2012,_T,Total,CICDTUME,Malignant neoplasms,276.9
+567,Slovak Republic,2008,_T,Total,CICDTUME,Malignant neoplasms,260.6
+568,Poland,2002,M,Male,CICDTUME,Malignant neoplasms,301.8
+569,Poland,2012,M,Male,CICDTUME,Malignant neoplasms,269.2
+570,Indonesia,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",12.8
+571,New Zealand,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",44.1
+572,New Zealand,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",53.0
+573,New Zealand,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",41.5
+574,Australia,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,84.8
+575,Australia,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,83.2
+576,Australia,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,86.0
+577,Poland,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.9
+578,Poland,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.7
+579,Poland,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.0
+580,France,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,91.9
+581,France,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,83.2
+582,France,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,89.7
+583,France,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,99.7
+584,Portugal,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.6
+585,Portugal,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.4
+586,India,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,25.8
+587,Portugal,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.7
+588,Portugal,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.4
+589,India,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",6.9
+590,Germany,2008,F,Female,CICDTUME,Malignant neoplasms,245.7
+591,Germany,2002,F,Female,CICDTUME,Malignant neoplasms,248.9
+592,Germany,2000,F,Female,CICDTUME,Malignant neoplasms,235.3
+593,Germany,2012,F,Female,CICDTUME,Malignant neoplasms,252.5
+594,China (People’s Republic of),2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",11.6
+595,China (People’s Republic of),2012,M,Male,CICDTUME,Malignant neoplasms,211.2
+596,Brazil,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.3
+597,Lithuania,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",26.2
+598,Türkiye,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",5.3
+599,Türkiye,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",8.8
+600,Türkiye,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",5.2
+601,Australia,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",25.6
+602,Australia,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.2
+603,Australia,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.0
+604,Finland,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.3
+605,Finland,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.2
+606,Finland,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.5
+607,Finland,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.2
+608,Costa Rica,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.9
+609,United States,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.0
+610,United States,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.1
+611,United States,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",22.0
+612,Mexico,2008,M,Male,CICDTUME,Malignant neoplasms,132.9
+613,Mexico,2002,M,Male,CICDTUME,Malignant neoplasms,144.5
+614,Mexico,2012,M,Male,CICDTUME,Malignant neoplasms,123.9
+615,China (People’s Republic of),2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,22.1
+616,Austria,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.5
+617,Austria,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.0
+618,China (People’s Republic of),2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.5
+619,Austria,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.5
+620,Austria,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",25.1
+621,Slovak Republic,2012,M,Male,CICDTUME,Malignant neoplasms,338.2
+622,Slovak Republic,2008,M,Male,CICDTUME,Malignant neoplasms,320.2
+623,France,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",53.5
+624,France,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",52.0
+625,France,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",47.7
+626,France,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",52.6
+627,Slovak Republic,2002,M,Male,CICDTUME,Malignant neoplasms,319.0
+628,Korea,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",53.3
+629,Korea,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",45.5
+630,Korea,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.5
+631,Korea,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.8
+632,Korea,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",46.4
+633,Korea,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,17.9
+634,France,2012,_T,Total,CICDTUME,Malignant neoplasms,303.5
+635,France,2008,_T,Total,CICDTUME,Malignant neoplasms,300.4
+636,Russia,2012,F,Female,CICDTUME,Malignant neoplasms,187.1
+637,Switzerland,2002,M,Male,CICDTUME,Malignant neoplasms,329.1
+638,Switzerland,2000,M,Male,CICDTUME,Malignant neoplasms,283.4
+639,Switzerland,2012,M,Male,CICDTUME,Malignant neoplasms,337.9
+640,Switzerland,2008,M,Male,CICDTUME,Malignant neoplasms,313.2
+641,France,2002,_T,Total,CICDTUME,Malignant neoplasms,289.5
+642,France,2000,_T,Total,CICDTUME,Malignant neoplasms,281.5
+643,Austria,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",14.3
+644,Austria,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.0
+645,Austria,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.5
+646,Austria,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.2
+647,Russia,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",21.8
+648,Canada,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.2
+649,Russia,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.5
+650,Canada,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.6
+651,Canada,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.4
+652,Slovak Republic,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,16.1
+653,Slovak Republic,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,15.8
+654,Slovak Republic,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,18.5
+655,Norway,2002,_T,Total,CICDTUME,Malignant neoplasms,286.0
+656,Norway,2012,_T,Total,CICDTUME,Malignant neoplasms,318.3
+657,Norway,2008,_T,Total,CICDTUME,Malignant neoplasms,297.9
+658,Finland,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,84.4
+659,Finland,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,72.9
+660,Finland,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,96.6
+661,Finland,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,96.6
+662,Greece,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.7
+663,Greece,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.9
+664,Greece,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,5.2
+665,Latvia,2012,F,Female,CICDTUME,Malignant neoplasms,206.5
+666,Netherlands,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",59.7
+667,Germany,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.7
+668,Germany,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.8
+669,Germany,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.1
+670,Israel,2008,M,Male,CICDTUME,Malignant neoplasms,303.7
+671,Israel,2012,M,Male,CICDTUME,Malignant neoplasms,318.0
+672,Switzerland,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,3.6
+673,Switzerland,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.0
+674,Switzerland,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,8.3
+675,Russia,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",51.4
+676,Switzerland,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.2
+677,Finland,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,84.7
+678,Finland,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,78.4
+679,Lithuania,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",55.4
+680,Finland,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,89.4
+681,Finland,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,86.6
+682,Canada,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",34.4
+683,Canada,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",32.4
+684,Canada,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",31.6
+685,Hungary,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",79.3
+686,Hungary,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",94.6
+687,Hungary,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",76.6
+688,Poland,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,48.9
+689,Poland,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,50.3
+690,Poland,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,51.9
+691,Czechia,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",54.0
+692,Czechia,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",60.7
+693,Slovak Republic,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",9.4
+694,Slovak Republic,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",14.3
+695,Slovak Republic,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",10.6
+696,Czechia,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",58.5
+697,France,2002,M,Male,CICDTUME,Malignant neoplasms,341.8
+698,France,2000,M,Male,CICDTUME,Malignant neoplasms,342.6
+699,France,2012,M,Male,CICDTUME,Malignant neoplasms,356.0
+700,France,2008,M,Male,CICDTUME,Malignant neoplasms,360.6
+701,Israel,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",43.0
+702,Israel,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.6
+703,France,2002,F,Female,CICDTUME,Malignant neoplasms,237.2
+704,France,2000,F,Female,CICDTUME,Malignant neoplasms,220.3
+705,France,2012,F,Female,CICDTUME,Malignant neoplasms,261.9
+706,France,2008,F,Female,CICDTUME,Malignant neoplasms,254.9
+707,Poland,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,18.4
+708,Poland,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,12.2
+709,Japan,2002,F,Female,CICDTUME,Malignant neoplasms,167.4
+710,Japan,2012,F,Female,CICDTUME,Malignant neoplasms,185.7
+711,Japan,2008,F,Female,CICDTUME,Malignant neoplasms,167.6
+712,Poland,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,12.3
+713,Israel,2012,F,Female,CICDTUME,Malignant neoplasms,258.7
+714,Israel,2008,F,Female,CICDTUME,Malignant neoplasms,280.4
+715,Denmark,2012,_T,Total,CICDTUME,Malignant neoplasms,338.1
+716,Denmark,2008,_T,Total,CICDTUME,Malignant neoplasms,321.1
+717,Denmark,2002,_T,Total,CICDTUME,Malignant neoplasms,281.4
+718,Denmark,2000,_T,Total,CICDTUME,Malignant neoplasms,287.8
+719,Belgium,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,92.0
+720,Belgium,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,82.2
+721,Belgium,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,111.9
+722,Belgium,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,109.4
+723,India,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",5.1
+724,Ireland,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,71.6
+725,Ireland,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,92.3
+726,Ireland,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,93.9
+727,Ireland,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,74.9
+728,China (People’s Republic of),2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,5.3
+729,Mexico,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",11.9
+730,Mexico,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",7.5
+731,Mexico,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",9.4
+732,Mexico,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,27.2
+733,Mexico,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,26.4
+734,Mexico,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,35.4
+735,New Zealand,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.5
+736,New Zealand,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.2
+737,Korea,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",13.8
+738,Hungary,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.7
+739,Korea,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.8
+740,Hungary,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.5
+741,Hungary,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.3
+742,New Zealand,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.5
+743,Korea,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.2
+744,Greece,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,51.6
+745,Greece,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,47.6
+746,Denmark,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,12.6
+747,Denmark,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,15.3
+748,Denmark,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.6
+749,Denmark,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,11.0
+750,Greece,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,43.9
+751,Greece,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,44.9
+752,Germany,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",11.4
+753,Germany,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",17.9
+754,Germany,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.4
+755,Germany,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.7
+756,Austria,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.6
+757,South Africa,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.6
+758,Austria,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.0
+759,Austria,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",34.7
+760,Austria,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.0
+761,Costa Rica,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",17.0
+762,Luxembourg,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.2
+763,Luxembourg,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",34.1
+764,Portugal,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.3
+765,Poland,2008,M,Male,CICDTUME,Malignant neoplasms,284.6
+766,Greece,2012,F,Female,CICDTUME,Malignant neoplasms,138.0
+767,Greece,2008,F,Female,CICDTUME,Malignant neoplasms,141.9
+768,Greece,2002,F,Female,CICDTUME,Malignant neoplasms,171.1
+769,Greece,2000,F,Female,CICDTUME,Malignant neoplasms,158.0
+770,Indonesia,2012,F,Female,CICDTUME,Malignant neoplasms,134.4
+771,Finland,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,3.7
+772,Lithuania,2012,_T,Total,CICDTUME,Malignant neoplasms,251.9
+773,Finland,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.3
+774,Finland,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.2
+775,Finland,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,4.3
+776,United States,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,92.9
+777,United States,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,76.0
+778,United States,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,101.1
+779,Chile,2008,F,Female,CICDTUME,Malignant neoplasms,159.5
+780,Lithuania,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",18.9
+781,Chile,2012,F,Female,CICDTUME,Malignant neoplasms,163.3
+782,Czechia,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,67.7
+783,Czechia,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,58.4
+784,Denmark,2012,M,Male,CICDTUME,Malignant neoplasms,354.3
+785,Denmark,2008,M,Male,CICDTUME,Malignant neoplasms,337.4
+786,Denmark,2002,M,Male,CICDTUME,Malignant neoplasms,277.2
+787,Denmark,2000,M,Male,CICDTUME,Malignant neoplasms,278.7
+788,Czechia,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,70.3
+789,Slovak Republic,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,39.8
+790,Slovak Republic,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,30.5
+791,Slovak Republic,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,50.0
+792,Colombia,2012,F,Female,CICDTUME,Malignant neoplasms,151.5
+793,Portugal,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",16.4
+794,Portugal,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",20.1
+795,Portugal,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.7
+796,Portugal,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",20.2
+797,Spain,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.6
+798,Spain,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.6
+799,Spain,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.3
+800,Spain,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.8
+801,Ireland,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",43.1
+802,Ireland,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",44.2
+803,Ireland,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",43.1
+804,Ireland,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",44.5
+805,Canada,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",38.1
+806,Canada,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.4
+807,Slovenia,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",49.7
+808,Slovenia,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",49.5
+809,Australia,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,115.2
+810,Australia,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,105.0
+811,Canada,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.2
+812,Australia,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,76.0
+813,Spain,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,35.9
+814,Spain,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,24.2
+815,Spain,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,65.2
+816,Spain,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,57.2
+817,Indonesia,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,14.8
+818,Greece,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,20.2
+819,Greece,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,17.7
+820,Türkiye,2012,_T,Total,CICDTUME,Malignant neoplasms,205.1
+821,Türkiye,2008,_T,Total,CICDTUME,Malignant neoplasms,144.8
+822,Türkiye,2002,_T,Total,CICDTUME,Malignant neoplasms,114.3
+823,Germany,2008,_T,Total,CICDTUME,Malignant neoplasms,282.1
+824,Germany,2002,_T,Total,CICDTUME,Malignant neoplasms,283.3
+825,Germany,2000,_T,Total,CICDTUME,Malignant neoplasms,273.8
+826,Germany,2012,_T,Total,CICDTUME,Malignant neoplasms,283.8
+827,Greece,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,26.2
+828,Greece,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,20.2
+829,Finland,2002,F,Female,CICDTUME,Malignant neoplasms,227.9
+830,Finland,2000,F,Female,CICDTUME,Malignant neoplasms,222.6
+831,Estonia,2012,F,Female,CICDTUME,Malignant neoplasms,202.7
+832,Estonia,2008,F,Female,CICDTUME,Malignant neoplasms,203.5
+833,Finland,2012,F,Female,CICDTUME,Malignant neoplasms,234.2
+834,Finland,2008,F,Female,CICDTUME,Malignant neoplasms,229.9
+835,Korea,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.6
+836,Korea,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",33.1
+837,Norway,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",43.4
+838,Norway,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.6
+839,Korea,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.7
+840,Norway,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",41.3
+841,Sweden,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.4
+842,Sweden,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.0
+843,France,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,98.0
+844,France,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,118.3
+845,France,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,59.3
+846,Colombia,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",15.9
+847,France,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,56.5
+848,Sweden,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.3
+849,Sweden,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.7
+850,Spain,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.7
+851,Spain,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.5
+852,Spain,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.1
+853,Spain,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.4
+854,Belgium,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.8
+855,Belgium,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.0
+856,Belgium,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.5
+857,Belgium,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.6
+858,Luxembourg,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.8
+859,Luxembourg,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.9
+860,Luxembourg,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",21.6
+861,Luxembourg,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.9
+862,New Zealand,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",26.1
+863,Greece,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,3.8
+864,Germany,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.5
+865,Korea,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,22.4
+866,Korea,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,7.6
+867,Korea,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,30.3
+868,Korea,2008,_T,Total,CICDTUME,Malignant neoplasms,262.4
+869,Korea,2002,_T,Total,CICDTUME,Malignant neoplasms,220.5
+870,Korea,2012,_T,Total,CICDTUME,Malignant neoplasms,307.8
+871,Sweden,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",21.1
+872,Sweden,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",21.4
+873,Sweden,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.4
+874,Sweden,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.4
+875,Israel,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",21.2
+876,Israel,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",23.8
+877,France,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.9
+878,France,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.8
+879,France,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.9
+880,France,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.1
+881,South Africa,2012,F,Female,CICDTUME,Malignant neoplasms,168.9
+882,Poland,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",19.5
+883,Costa Rica,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",9.8
+884,Poland,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",17.6
+885,Poland,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.5
+886,Austria,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",42.6
+887,Austria,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",42.1
+888,Austria,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",37.1
+889,Austria,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.0
+890,Luxembourg,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",61.3
+891,Luxembourg,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",60.5
+892,Luxembourg,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",39.9
+893,Luxembourg,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",46.4
+894,Portugal,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",33.9
+895,Portugal,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",34.2
+896,Portugal,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.0
+897,Portugal,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",34.2
+898,Mexico,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",7.5
+899,Mexico,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",7.8
+900,Mexico,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",6.5
+901,Indonesia,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,17.3
+902,Lithuania,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",7.2
+903,Norway,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.3
+904,Norway,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.4
+905,Mexico,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",4.9
+906,Mexico,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",5.4
+907,Mexico,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",6.7
+908,Brazil,2012,_T,Total,CICDTUME,Malignant neoplasms,205.5
+909,Norway,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.8
+910,Spain,2012,_T,Total,CICDTUME,Malignant neoplasms,249.0
+911,Spain,2008,_T,Total,CICDTUME,Malignant neoplasms,241.4
+912,Spain,2002,_T,Total,CICDTUME,Malignant neoplasms,243.4
+913,Spain,2000,_T,Total,CICDTUME,Malignant neoplasms,219.3
+914,Russia,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",24.0
+915,Poland,2008,_T,Total,CICDTUME,Malignant neoplasms,225.1
+916,Poland,2002,_T,Total,CICDTUME,Malignant neoplasms,256.1
+917,Poland,2012,_T,Total,CICDTUME,Malignant neoplasms,229.6
+918,United States,2002,M,Male,CICDTUME,Malignant neoplasms,406.6
+919,Costa Rica,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",5.0
+920,Colombia,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",13.4
+921,United States,2012,M,Male,CICDTUME,Malignant neoplasms,347.0
+922,United States,2008,M,Male,CICDTUME,Malignant neoplasms,335.0
+923,Belgium,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,8.6
+924,Belgium,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.4
+925,Belgium,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.4
+926,Belgium,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.1
+927,United States,2008,F,Female,CICDTUME,Malignant neoplasms,274.4
+928,United States,2002,F,Female,CICDTUME,Malignant neoplasms,308.8
+929,United States,2012,F,Female,CICDTUME,Malignant neoplasms,297.4
+930,Portugal,2002,M,Male,CICDTUME,Malignant neoplasms,284.6
+931,Portugal,2000,M,Male,CICDTUME,Malignant neoplasms,270.3
+932,Portugal,2012,M,Male,CICDTUME,Malignant neoplasms,306.3
+933,Portugal,2008,M,Male,CICDTUME,Malignant neoplasms,266.8
+934,Türkiye,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,14.8
+935,Türkiye,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,8.0
+936,Türkiye,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,40.6
+937,Ireland,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.2
+938,Ireland,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.9
+939,Ireland,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,13.6
+940,Ireland,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.9
+941,Canada,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",43.7
+942,Canada,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",37.9
+943,Canada,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",35.9
+944,Canada,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,78.2
+945,South Africa,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",9.5
+946,Canada,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,88.9
+947,Canada,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,101.5
+948,Lithuania,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,26.1
+949,Costa Rica,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,11.4
+950,Türkiye,2012,M,Male,CICDTUME,Malignant neoplasms,257.8
+951,Türkiye,2008,M,Male,CICDTUME,Malignant neoplasms,182.3
+952,Chile,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,52.4
+953,Türkiye,2002,M,Male,CICDTUME,Malignant neoplasms,137.3
+954,Chile,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,57.4
+955,Finland,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",10.8
+956,Finland,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",10.1
+957,Finland,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",8.9
+958,Finland,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.2
+959,Denmark,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",41.0
+960,Denmark,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",38.8
+961,Denmark,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.9
+962,Luxembourg,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.5
+963,Luxembourg,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.9
+964,Costa Rica,2012,_T,Total,CICDTUME,Malignant neoplasms,179.3
+965,Brazil,2012,M,Male,CICDTUME,Malignant neoplasms,231.6
+966,Denmark,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",39.7
+967,Denmark,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.0
+968,Denmark,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",34.7
+969,Denmark,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.5
+970,Australia,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",47.4
+971,Australia,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.5
+972,Australia,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",46.0
+973,Slovenia,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.0
+974,Slovenia,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.5
+975,Czechia,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",50.9
+976,Czechia,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",52.9
+977,Czechia,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",66.1
+978,Slovak Republic,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",61.6
+979,Slovak Republic,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",60.6
+980,Slovak Republic,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",54.5
+981,Austria,2012,_T,Total,CICDTUME,Malignant neoplasms,254.1
+982,Austria,2008,_T,Total,CICDTUME,Malignant neoplasms,250.6
+983,Austria,2000,_T,Total,CICDTUME,Malignant neoplasms,250.7
+984,Austria,2002,_T,Total,CICDTUME,Malignant neoplasms,275.5
+985,Korea,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.6
+986,Korea,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.8
+987,Korea,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.3
+988,Greece,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",9.0
+989,Greece,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",8.5
+990,Greece,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",8.7
+991,Greece,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",8.3
+992,Israel,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.3
+993,Israel,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.3
+994,Luxembourg,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,82.5
+995,Luxembourg,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,69.3
+996,Luxembourg,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,89.1
+997,Luxembourg,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,82.3
+998,Latvia,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.8
+999,Chile,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",14.4
+1000,Chile,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",11.9
+1001,Sweden,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.6
+1002,Sweden,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.2
+1003,Sweden,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.5
+1004,Sweden,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.0
+1005,United Kingdom,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.4
+1006,United Kingdom,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.5
+1007,United Kingdom,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.5
+1008,United Kingdom,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.3
+1009,Hungary,2012,_T,Total,CICDTUME,Malignant neoplasms,285.4
+1010,Hungary,2008,_T,Total,CICDTUME,Malignant neoplasms,286.6
+1011,Hungary,2002,_T,Total,CICDTUME,Malignant neoplasms,318.8
+1012,Indonesia,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",8.1
+1013,South Africa,2012,M,Male,CICDTUME,Malignant neoplasms,224.3
+1014,Portugal,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,46.8
+1015,Portugal,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,36.7
+1016,Portugal,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,63.6
+1017,Portugal,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,50.1
+1018,India,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,4.2
+1019,Czechia,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.6
+1020,Czechia,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.0
+1021,New Zealand,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,5.3
+1022,New Zealand,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,5.5
+1023,New Zealand,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.0
+1024,Finland,2012,M,Male,CICDTUME,Malignant neoplasms,290.1
+1025,Finland,2008,M,Male,CICDTUME,Malignant neoplasms,283.0
+1026,Finland,2002,M,Male,CICDTUME,Malignant neoplasms,264.1
+1027,Finland,2000,M,Male,CICDTUME,Malignant neoplasms,259.3
+1028,Czechia,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.1
+1029,Russia,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",6.8
+1030,Denmark,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",37.6
+1031,Denmark,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",37.3
+1032,Denmark,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",39.2
+1033,Denmark,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",39.3
+1034,South Africa,2012,_T,Total,CICDTUME,Malignant neoplasms,187.1
+1035,Finland,2002,_T,Total,CICDTUME,Malignant neoplasms,246.0
+1036,Finland,2000,_T,Total,CICDTUME,Malignant neoplasms,241.0
+1037,Estonia,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,94.4
+1038,Estonia,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,42.8
+1039,Finland,2012,_T,Total,CICDTUME,Malignant neoplasms,256.8
+1040,Finland,2008,_T,Total,CICDTUME,Malignant neoplasms,250.1
+1041,Austria,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,71.4
+1042,Austria,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,49.8
+1043,Austria,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,74.7
+1044,Austria,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,83.1
+1045,Chile,2012,_T,Total,CICDTUME,Malignant neoplasms,175.7
+1046,Chile,2008,_T,Total,CICDTUME,Malignant neoplasms,176.7
+1047,Lithuania,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.2
+1048,United States,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",42.1
+1049,United States,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",49.0
+1050,United States,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.4
+1051,Korea,2002,M,Male,CICDTUME,Malignant neoplasms,285.7
+1052,Korea,2012,M,Male,CICDTUME,Malignant neoplasms,340.0
+1053,Korea,2008,M,Male,CICDTUME,Malignant neoplasms,309.4
+1054,Germany,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",38.5
+1055,Germany,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",39.3
+1056,Germany,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.5
+1057,Germany,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.9
+1058,Belgium,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",44.0
+1059,Belgium,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.0
+1060,Belgium,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.4
+1061,New Zealand,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.9
+1062,New Zealand,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",25.9
+1063,United Kingdom,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",47.6
+1064,United Kingdom,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",34.9
+1065,United Kingdom,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",41.6
+1066,United Kingdom,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",48.1
+1067,New Zealand,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,99.7
+1068,New Zealand,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,100.9
+1069,New Zealand,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,92.2
+1070,Estonia,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.5
+1071,Estonia,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",24.4
+1072,Finland,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",21.1
+1073,Finland,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",21.2
+1074,Finland,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",19.7
+1075,Finland,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",19.8
+1076,Ireland,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.0
+1077,Ireland,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.7
+1078,Ireland,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.7
+1079,Ireland,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.8
+1080,United States,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,83.8
+1081,United States,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,124.8
+1082,United States,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,98.2
+1083,United Kingdom,2008,M,Male,CICDTUME,Malignant neoplasms,298.4
+1084,United Kingdom,2002,M,Male,CICDTUME,Malignant neoplasms,286.6
+1085,United Kingdom,2000,M,Male,CICDTUME,Malignant neoplasms,260.3
+1086,United Kingdom,2012,M,Male,CICDTUME,Malignant neoplasms,284.0
+1087,Hungary,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.6
+1088,Hungary,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.2
+1089,Hungary,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.3
+1090,Latvia,2012,M,Male,CICDTUME,Malignant neoplasms,325.0
+1091,Brazil,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",21.3
+1092,Iceland,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.3
+1093,Iceland,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,8.3
+1094,Iceland,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.9
+1095,Brazil,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",14.9
+1096,France,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.1
+1097,France,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.0
+1098,France,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.8
+1099,France,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",39.8
+1100,Switzerland,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",13.8
+1101,Switzerland,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",11.6
+1102,Netherlands,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.9
+1103,Netherlands,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.0
+1104,Netherlands,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.8
+1105,Netherlands,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.4
+1106,Switzerland,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",20.7
+1107,Switzerland,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",17.0
+1108,Czechia,2008,_T,Total,CICDTUME,Malignant neoplasms,288.5
+1109,Czechia,2002,_T,Total,CICDTUME,Malignant neoplasms,289.3
+1110,Spain,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",53.2
+1111,Spain,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",52.5
+1112,Spain,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",53.3
+1113,Spain,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",55.8
+1114,Czechia,2012,_T,Total,CICDTUME,Malignant neoplasms,293.8
+1115,Ireland,2002,M,Male,CICDTUME,Malignant neoplasms,273.6
+1116,Ireland,2000,M,Male,CICDTUME,Malignant neoplasms,272.1
+1117,Ireland,2012,M,Male,CICDTUME,Malignant neoplasms,343.3
+1118,Ireland,2008,M,Male,CICDTUME,Malignant neoplasms,355.9
+1119,Denmark,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,89.1
+1120,Denmark,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,88.7
+1121,Denmark,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,86.2
+1122,Denmark,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,105.0
+1123,Japan,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.7
+1124,Japan,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.8
+1125,Japan,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.1
+1126,Korea,2008,F,Female,CICDTUME,Malignant neoplasms,234.4
+1127,Korea,2002,F,Female,CICDTUME,Malignant neoplasms,155.3
+1128,Chile,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",10.2
+1129,Chile,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",9.2
+1130,Australia,2002,F,Female,CICDTUME,Malignant neoplasms,276.8
+1131,Australia,2012,F,Female,CICDTUME,Malignant neoplasms,278.6
+1132,Korea,2012,F,Female,CICDTUME,Malignant neoplasms,293.6
+1133,Australia,2008,F,Female,CICDTUME,Malignant neoplasms,274.4
+1134,Slovak Republic,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",49.2
+1135,Slovak Republic,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",67.5
+1136,Belgium,2012,F,Female,CICDTUME,Malignant neoplasms,288.9
+1137,Belgium,2008,F,Female,CICDTUME,Malignant neoplasms,276.2
+1138,Belgium,2000,F,Female,CICDTUME,Malignant neoplasms,234.6
+1139,Belgium,2002,F,Female,CICDTUME,Malignant neoplasms,245.0
+1140,France,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",20.2
+1141,France,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",14.7
+1142,France,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",8.8
+1143,Slovak Republic,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",47.5
+1144,France,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",7.4
+1145,Iceland,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.7
+1146,Iceland,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.0
+1147,Iceland,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.2
+1148,Canada,2008,F,Female,CICDTUME,Malignant neoplasms,275.0
+1149,Canada,2002,F,Female,CICDTUME,Malignant neoplasms,272.4
+1150,United Kingdom,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.8
+1151,United Kingdom,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.2
+1152,United Kingdom,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",39.2
+1153,Canada,2012,F,Female,CICDTUME,Malignant neoplasms,277.4
+1154,United Kingdom,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.4
+1155,Slovenia,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.0
+1156,Slovenia,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.0
+1157,Hungary,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",33.2
+1158,Hungary,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.4
+1159,Hungary,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",24.9
+1160,Denmark,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.2
+1161,Colombia,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",12.9
+1162,Sweden,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.4
+1163,Sweden,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.4
+1164,Chile,2008,M,Male,CICDTUME,Malignant neoplasms,203.0
+1165,Chile,2012,M,Male,CICDTUME,Malignant neoplasms,195.3
+1166,Slovenia,2012,M,Male,CICDTUME,Malignant neoplasms,358.2
+1167,Slovenia,2008,M,Male,CICDTUME,Malignant neoplasms,315.5
+1168,United Kingdom,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,87.2
+1169,United Kingdom,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,74.9
+1170,United Kingdom,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,95.0
+1171,United Kingdom,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,87.9
+1172,France,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.7
+1173,France,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.5
+1174,France,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.8
+1175,France,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.1
+1176,France,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.8
+1177,France,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.1
+1178,France,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",35.0
+1179,France,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.0
+1180,Russia,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.0
+1181,Norway,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.6
+1182,Norway,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.0
+1183,Norway,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.1
+1184,Poland,2008,F,Female,CICDTUME,Malignant neoplasms,186.0
+1185,Poland,2002,F,Female,CICDTUME,Malignant neoplasms,210.3
+1186,Poland,2012,F,Female,CICDTUME,Malignant neoplasms,205.6
+1187,Slovak Republic,2008,F,Female,CICDTUME,Malignant neoplasms,223.4
+1188,Slovak Republic,2002,F,Female,CICDTUME,Malignant neoplasms,206.9
+1189,Slovak Republic,2012,F,Female,CICDTUME,Malignant neoplasms,238.0
+1190,United States,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,5.7
+1191,United States,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,7.7
+1192,United States,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.6
+1193,Netherlands,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",17.9
+1194,Netherlands,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",17.5
+1195,Austria,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,68.0
+1196,Austria,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,69.9
+1197,Austria,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,70.5
+1198,Austria,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,67.2
+1199,Netherlands,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",31.6
+1200,Netherlands,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",26.1
+1201,Italy,2002,_T,Total,CICDTUME,Malignant neoplasms,276.5
+1202,Italy,2000,_T,Total,CICDTUME,Malignant neoplasms,254.1
+1203,Latvia,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,82.7
+1204,Italy,2012,_T,Total,CICDTUME,Malignant neoplasms,278.6
+1205,Italy,2008,_T,Total,CICDTUME,Malignant neoplasms,274.3
+1206,Iceland,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.8
+1207,Iceland,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.2
+1208,Iceland,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.0
+1209,Greece,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",19.4
+1210,Greece,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",17.4
+1211,Greece,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",16.3
+1212,Greece,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.4
+1213,Japan,2008,M,Male,CICDTUME,Malignant neoplasms,247.3
+1214,Japan,2002,M,Male,CICDTUME,Malignant neoplasms,261.5
+1215,Japan,2012,M,Male,CICDTUME,Malignant neoplasms,260.4
+1216,Greece,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",55.8
+1217,Greece,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",50.9
+1218,India,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",7.2
+1219,Greece,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",52.9
+1220,Greece,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",58.0
+1221,Hungary,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",60.6
+1222,Hungary,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",56.6
+1223,Hungary,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",58.9
+1224,Switzerland,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",34.0
+1225,Switzerland,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.8
+1226,Switzerland,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.4
+1227,Switzerland,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.9
+1228,Brazil,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.8
+1229,Austria,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.8
+1230,Austria,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",26.1
+1231,Hungary,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",51.6
+1232,Hungary,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",49.8
+1233,Hungary,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",59.8
+1234,Austria,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",19.6
+1235,Austria,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",22.2
+1236,Mexico,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",17.0
+1237,Brazil,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,76.2
+1238,Mexico,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",10.5
+1239,Mexico,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",14.0
+1240,South Africa,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,67.9
+1241,Sweden,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.8
+1242,Sweden,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.8
+1243,Sweden,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.2
+1244,Sweden,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.5
+1245,Indonesia,2012,M,Male,CICDTUME,Malignant neoplasms,136.2
+1246,Italy,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,40.5
+1247,Italy,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,24.9
+1248,Italy,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,67.6
+1249,Italy,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,58.4
+1250,Estonia,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",9.0
+1251,Estonia,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",9.4
+1252,Spain,2000,M,Male,CICDTUME,Malignant neoplasms,272.3
+1253,Brazil,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",16.9
+1254,Spain,2012,M,Male,CICDTUME,Malignant neoplasms,312.8
+1255,Spain,2008,M,Male,CICDTUME,Malignant neoplasms,309.9
+1256,Spain,2002,M,Male,CICDTUME,Malignant neoplasms,307.6
+1257,Sweden,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",14.4
+1258,Sweden,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.1
+1259,Belgium,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",45.2
+1260,Latvia,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.7
+1261,China (People’s Republic of),2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",52.8
+1262,China (People’s Republic of),2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",20.4
+1263,Israel,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.4
+1264,Israel,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.9
+1265,United States,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",38.9
+1266,United States,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.0
+1267,United States,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.2
+1268,Spain,2002,F,Female,CICDTUME,Malignant neoplasms,179.1
+1269,Spain,2000,F,Female,CICDTUME,Malignant neoplasms,166.3
+1270,Spain,2012,F,Female,CICDTUME,Malignant neoplasms,198.2
+1271,Spain,2008,F,Female,CICDTUME,Malignant neoplasms,187.0
+1272,Belgium,2002,_T,Total,CICDTUME,Malignant neoplasms,296.2
+1273,Belgium,2000,_T,Total,CICDTUME,Malignant neoplasms,282.2
+1274,Luxembourg,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.3
+1275,Luxembourg,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",43.6
+1276,Luxembourg,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.9
+1277,Luxembourg,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.1
+1278,Belgium,2012,_T,Total,CICDTUME,Malignant neoplasms,321.1
+1279,Belgium,2008,_T,Total,CICDTUME,Malignant neoplasms,309.4
+1280,United States,2002,_T,Total,CICDTUME,Malignant neoplasms,357.7
+1281,United States,2012,_T,Total,CICDTUME,Malignant neoplasms,318.0
+1282,United States,2008,_T,Total,CICDTUME,Malignant neoplasms,300.2
+1283,South Africa,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,41.5
+1284,India,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",6.1
+1285,Switzerland,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,81.7
+1286,Switzerland,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,70.1
+1287,Norway,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",38.9
+1288,Norway,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.8
+1289,Norway,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.3
+1290,Switzerland,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,83.1
+1291,Switzerland,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,89.4
+1292,Chile,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",13.0
+1293,Chile,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",15.0
+1294,New Zealand,2008,_T,Total,CICDTUME,Malignant neoplasms,309.2
+1295,New Zealand,2002,_T,Total,CICDTUME,Malignant neoplasms,331.0
+1296,New Zealand,2012,_T,Total,CICDTUME,Malignant neoplasms,295.0
+1297,India,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,22.0
+1298,Japan,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.3
+1299,Japan,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",12.9
+1300,Japan,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",13.3
+1301,Canada,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.8
+1302,Canada,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.6
+1303,Canada,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.5
+1304,Brazil,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,16.3
+1305,Portugal,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,12.2
+1306,Portugal,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,13.5
+1307,Austria,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",34.0
+1308,Austria,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.7
+1309,Austria,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",42.1
+1310,Austria,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",43.2
+1311,Slovak Republic,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.3
+1312,Slovak Republic,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.2
+1313,Slovak Republic,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.4
+1314,Portugal,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,14.6
+1315,Portugal,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.0
+1316,Ireland,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.8
+1317,Ireland,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.1
+1318,Ireland,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",31.3
+1319,Ireland,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.6
+1320,Iceland,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,86.2
+1321,Iceland,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,90.0
+1322,Iceland,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,96.3
+1323,Poland,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",70.6
+1324,Poland,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",82.0
+1325,Poland,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",60.5
+1326,Norway,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,115.6
+1327,Norway,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,81.8
+1328,Netherlands,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.2
+1329,Netherlands,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.6
+1330,Netherlands,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",35.9
+1331,Netherlands,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.0
+1332,Norway,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,129.7
+1333,Israel,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,96.8
+1334,Indonesia,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",25.8
+1335,Israel,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,80.5
+1336,Iceland,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,102.2
+1337,Iceland,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,81.0
+1338,Iceland,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,106.6
+1339,Iceland,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.4
+1340,Iceland,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.5
+1341,Iceland,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.4
+1342,Slovenia,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",50.5
+1343,Slovenia,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",53.8
+1344,Japan,2002,_T,Total,CICDTUME,Malignant neoplasms,214.5
+1345,Japan,2012,_T,Total,CICDTUME,Malignant neoplasms,217.1
+1346,Japan,2008,_T,Total,CICDTUME,Malignant neoplasms,201.1
+1347,Ireland,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",39.8
+1348,Ireland,2000,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",39.5
+1349,Ireland,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",36.1
+1350,Ireland,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",37.9
+1351,Slovak Republic,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,57.5
+1352,Slovak Republic,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,53.4
+1353,Türkiye,2002,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",47.7
+1354,Türkiye,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",63.9
+1355,Slovak Republic,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,48.0
+1356,Türkiye,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",49.1
+1357,Estonia,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",31.5
+1358,Sweden,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,8.2
+1359,Sweden,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,9.4
+1360,Luxembourg,2002,M,Male,CICDTUME,Malignant neoplasms,339.2
+1361,Luxembourg,2000,M,Male,CICDTUME,Malignant neoplasms,309.3
+1362,Luxembourg,2012,M,Male,CICDTUME,Malignant neoplasms,309.1
+1363,Luxembourg,2008,M,Male,CICDTUME,Malignant neoplasms,324.0
+1364,Israel,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.5
+1365,Israel,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",33.1
+1366,Italy,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",36.5
+1367,Italy,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.0
+1368,Spain,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,67.3
+1369,Spain,2008,F,Female,CICDMNBR,Malignant neoplasms of female breast,61.0
+1370,Spain,2002,F,Female,CICDMNBR,Malignant neoplasms of female breast,50.9
+1371,Spain,2000,F,Female,CICDMNBR,Malignant neoplasms of female breast,47.9
+1372,Italy,2000,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",29.6
+1373,Italy,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.9
+1374,Czechia,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,63.0
+1375,Czechia,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,38.1
+1376,Czechia,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,72.2
+1377,Korea,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",46.9
+1378,Korea,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.7
+1379,Finland,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",28.2
+1380,Finland,2008,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.6
+1381,Finland,2002,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.5
+1382,Finland,2000,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",25.2
+1383,South Africa,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",18.5
+1384,Korea,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",58.7
+1385,Ireland,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,114.2
+1386,Ireland,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,126.3
+1387,Ireland,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,47.8
+1388,Ireland,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,56.3
+1389,Germany,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",23.3
+1390,Germany,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",27.3
+1391,Germany,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",33.1
+1392,Germany,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",32.0
+1393,Switzerland,2012,F,Female,CICDTUME,Malignant neoplasms,245.9
+1394,Switzerland,2008,F,Female,CICDTUME,Malignant neoplasms,236.0
+1395,Switzerland,2002,F,Female,CICDTUME,Malignant neoplasms,240.1
+1396,Switzerland,2000,F,Female,CICDTUME,Malignant neoplasms,211.3
+1397,Ireland,2002,F,Female,CICDTUME,Malignant neoplasms,234.9
+1398,Ireland,2000,F,Female,CICDTUME,Malignant neoplasms,237.1
+1399,Ireland,2012,F,Female,CICDTUME,Malignant neoplasms,278.9
+1400,Ireland,2008,F,Female,CICDTUME,Malignant neoplasms,285.1
+1401,Poland,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",40.5
+1402,Poland,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",48.3
+1403,Poland,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.0
+1404,Spain,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",22.5
+1405,Spain,2000,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",21.0
+1406,Spain,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",24.2
+1407,Spain,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",22.9
+1408,Germany,2002,M,Male,CICDTUME,Malignant neoplasms,317.7
+1409,Germany,2000,M,Male,CICDTUME,Malignant neoplasms,312.3
+1410,Germany,2012,M,Male,CICDTUME,Malignant neoplasms,323.7
+1411,Germany,2008,M,Male,CICDTUME,Malignant neoplasms,330.7
+1412,Estonia,2012,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",48.2
+1413,Estonia,2008,M,Male,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",64.1
+1414,Hungary,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,32.9
+1415,Hungary,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,34.0
+1416,Hungary,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,37.5
+1417,Switzerland,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.2
+1418,Switzerland,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",30.1
+1419,Switzerland,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",27.3
+1420,Switzerland,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",26.7
+1421,Poland,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",18.3
+1422,Poland,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",14.6
+1423,Brazil,2012,F,Female,CICDTUME,Malignant neoplasms,186.8
+1424,Poland,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",21.8
+1425,Mexico,2008,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",6.1
+1426,Mexico,2002,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",7.0
+1427,Mexico,2012,F,Female,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",6.7
+1428,Costa Rica,2012,F,Female,CICDTUME,Malignant neoplasms,169.2
+1429,New Zealand,2002,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",47.6
+1430,New Zealand,2012,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",37.3
+1431,Chile,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,12.8
+1432,Chile,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,14.4
+1433,New Zealand,2008,_T,Total,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",40.5
+1434,Netherlands,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",35.0
+1435,Netherlands,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.8
+1436,Netherlands,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",39.8
+1437,Netherlands,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",37.2
+1438,Slovenia,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,82.9
+1439,Slovenia,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,61.6
+1440,Luxembourg,2002,M,Male,CICDMNPR,Malignant neoplasms of prostate,57.2
+1441,Luxembourg,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,50.4
+1442,Luxembourg,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,78.8
+1443,Luxembourg,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,74.8
+1444,Latvia,2012,M,Male,CICDNCRA,"Malignant neoplasms of colon, rectum and anus",30.0
+1445,Colombia,2012,F,Female,CICDMNBR,Malignant neoplasms of female breast,35.7
+1446,Belgium,2002,M,Male,CICDTUME,Malignant neoplasms,347.4
+1447,Belgium,2000,M,Male,CICDTUME,Malignant neoplasms,329.7
+1448,Belgium,2012,M,Male,CICDTUME,Malignant neoplasms,364.8
+1449,Belgium,2008,M,Male,CICDTUME,Malignant neoplasms,356.7
+1450,Sweden,2002,M,Male,CICDTUME,Malignant neoplasms,277.5
+1451,Sweden,2000,M,Male,CICDTUME,Malignant neoplasms,262.0
+1452,Sweden,2012,M,Male,CICDTUME,Malignant neoplasms,296.8
+1453,Sweden,2008,M,Male,CICDTUME,Malignant neoplasms,286.6
+1454,Netherlands,2000,M,Male,CICDMNPR,Malignant neoplasms of prostate,55.9
+1455,Netherlands,2012,M,Male,CICDMNPR,Malignant neoplasms of prostate,83.4
+1456,Netherlands,2008,M,Male,CICDMNPR,Malignant neoplasms of prostate,73.4
+1457,Sweden,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",19.1
+1458,Sweden,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",18.1
+1459,Japan,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",25.2
+1460,Japan,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",24.6
+1461,Czechia,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",32.1
+1462,Czechia,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",39.7
+1463,Czechia,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",32.5
+1464,Germany,2002,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,10.8
+1465,Germany,2000,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,11.5
+1466,Slovak Republic,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.3
+1467,Slovak Republic,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",26.7
+1468,Slovak Republic,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",38.5
+1469,Germany,2008,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,6.9
+1470,Germany,2012,F,Female,CICDCRVX,Malignant neoplasms of cervix uteri,8.2
+1471,Estonia,2012,_T,Total,CICDTUME,Malignant neoplasms,242.8
+1472,Estonia,2008,_T,Total,CICDTUME,Malignant neoplasms,230.1
+1473,Austria,2002,F,Female,CICDTUME,Malignant neoplasms,238.1
+1474,Austria,2000,F,Female,CICDTUME,Malignant neoplasms,219.6
+1475,Austria,2012,F,Female,CICDTUME,Malignant neoplasms,222.7
+1476,Austria,2008,F,Female,CICDTUME,Malignant neoplasms,218.6
+1477,Spain,2000,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",4.0
+1478,Spain,2002,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",5.4
+1479,Spain,2012,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",11.3
+1480,Spain,2008,F,Female,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",7.7
+1481,Greece,2002,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",33.4
+1482,Greece,2000,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",32.1
+1483,Greece,2012,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",28.5
+1484,Greece,2008,_T,Total,CICDCANC,"Malignant neoplasms of trachea, bronchus, lung",29.1
+1485,Mexico,2002,F,Female,CICDTUME,Malignant neoplasms,150.0
+1486,Mexico,2012,F,Female,CICDTUME,Malignant neoplasms,139.9
+1487,Mexico,2008,F,Female,CICDTUME,Malignant neoplasms,126.2
