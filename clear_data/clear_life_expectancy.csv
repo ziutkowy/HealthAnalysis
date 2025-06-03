@@ -1,0 +1,1246 @@
+,country,year,sex_code,sex_label,life_expectancy
+0,Australia,2020,F,Female,85.3
+1,Australia,2019,F,Female,85.0
+2,Australia,2018,F,Female,84.9
+3,Australia,2019,_T,Total,82.9
+4,Australia,2018,_T,Total,82.7
+5,Australia,2017,_T,Total,82.5
+6,Australia,2016,_T,Total,82.4
+7,Australia,2015,_T,Total,82.4
+8,Australia,2017,F,Female,84.6
+9,Australia,2016,F,Female,84.6
+10,Australia,2015,F,Female,84.5
+11,Australia,2022,M,Male,81.2
+12,Australia,2021,M,Male,81.3
+13,Australia,2020,M,Male,81.2
+14,Australia,2019,M,Male,80.9
+15,Australia,2018,M,Male,80.7
+16,Australia,2017,M,Male,80.5
+17,Australia,2016,M,Male,80.4
+18,Australia,2015,M,Male,80.4
+19,Australia,2022,_T,Total,83.2
+20,Australia,2021,_T,Total,83.3
+21,Australia,2020,_T,Total,83.2
+22,Australia,2022,F,Female,85.3
+23,Austria,2018,M,Male,79.4
+24,Austria,2017,M,Male,79.4
+25,Austria,2016,M,Male,79.3
+26,Austria,2019,F,Female,84.2
+27,Austria,2018,F,Female,84.1
+28,Austria,2017,F,Female,84.0
+29,Austria,2016,F,Female,84.1
+30,Austria,2015,F,Female,83.7
+31,Austria,2015,M,Male,78.8
+32,Austria,2023,_T,Total,81.6
+33,Austria,2022,_T,Total,81.4
+34,Austria,2021,_T,Total,81.3
+35,Austria,2020,_T,Total,81.3
+36,Austria,2019,_T,Total,82.0
+37,Austria,2018,_T,Total,81.8
+38,Austria,2017,_T,Total,81.7
+39,Austria,2016,_T,Total,81.8
+40,Austria,2015,_T,Total,81.3
+41,Austria,2023,F,Female,84.0
+42,Austria,2022,F,Female,83.6
+43,Austria,2021,F,Female,83.7
+44,Austria,2020,F,Female,83.6
+45,Austria,2023,M,Male,79.2
+46,Austria,2022,M,Male,79.1
+47,Austria,2021,M,Male,78.8
+48,Austria,2020,M,Male,78.9
+49,Belgium,2018,F,Female,83.9
+50,Belgium,2017,F,Female,83.9
+51,Belgium,2016,F,Female,84.0
+52,Belgium,2019,_T,Total,82.1
+53,Belgium,2018,_T,Total,81.7
+54,Belgium,2017,_T,Total,81.6
+55,Belgium,2016,_T,Total,81.5
+56,Belgium,2015,_T,Total,81.1
+57,Belgium,2015,F,Female,83.4
+58,Belgium,2023,M,Male,80.3
+59,Belgium,2022,M,Male,79.7
+60,Belgium,2021,M,Male,79.4
+61,Belgium,2020,M,Male,78.5
+62,Belgium,2019,M,Male,79.8
+63,Belgium,2018,M,Male,79.4
+64,Belgium,2017,M,Male,79.2
+65,Belgium,2016,M,Male,79.0
+66,Belgium,2015,M,Male,78.7
+67,Belgium,2023,_T,Total,82.5
+68,Belgium,2022,_T,Total,81.8
+69,Belgium,2021,_T,Total,81.9
+70,Belgium,2020,_T,Total,80.8
+71,Belgium,2023,F,Female,84.6
+72,Belgium,2022,F,Female,83.9
+73,Belgium,2021,F,Female,84.3
+74,Belgium,2020,F,Female,83.0
+75,Canada,2020,_T,Total,81.7
+76,Canada,2021,F,Female,84.0
+77,Canada,2020,F,Female,84.0
+78,Canada,2019,_T,Total,82.3
+79,Canada,2018,_T,Total,81.9
+80,Canada,2017,_T,Total,81.9
+81,Canada,2016,_T,Total,82.0
+82,Canada,2015,_T,Total,81.9
+83,Canada,2019,F,Female,84.4
+84,Canada,2018,F,Female,84.0
+85,Canada,2017,F,Female,84.0
+86,Canada,2016,F,Female,84.0
+87,Canada,2015,F,Female,83.9
+88,Canada,2021,M,Male,79.3
+89,Canada,2020,M,Male,79.5
+90,Canada,2019,M,Male,80.2
+91,Canada,2018,M,Male,79.8
+92,Canada,2017,M,Male,79.8
+93,Canada,2016,M,Male,79.9
+94,Canada,2015,M,Male,79.9
+95,Chile,2018,F,Female,83.2
+96,Chile,2017,F,Female,83.0
+97,Chile,2016,F,Female,82.9
+98,Chile,2019,M,Male,77.9
+99,Chile,2018,M,Male,77.7
+100,Chile,2017,M,Male,77.4
+101,Chile,2016,M,Male,77.2
+102,Chile,2015,M,Male,77.0
+103,Chile,2015,F,Female,82.7
+104,Chile,2023,_T,Total,81.4
+105,Chile,2022,_T,Total,81.2
+106,Chile,2021,_T,Total,81.0
+107,Chile,2020,_T,Total,80.8
+108,Chile,2019,_T,Total,80.6
+109,Chile,2018,_T,Total,80.4
+110,Chile,2017,_T,Total,80.2
+111,Chile,2016,_T,Total,80.0
+112,Chile,2015,_T,Total,79.8
+113,Chile,2023,M,Male,78.7
+114,Chile,2022,M,Male,78.5
+115,Chile,2021,M,Male,78.3
+116,Chile,2020,M,Male,78.1
+117,Chile,2023,F,Female,84.1
+118,Chile,2022,F,Female,84.0
+119,Chile,2021,F,Female,83.8
+120,Chile,2020,F,Female,83.6
+121,Colombia,2020,_T,Total,76.7
+122,Colombia,2019,_T,Total,76.6
+123,Colombia,2018,_T,Total,76.5
+124,Colombia,2019,M,Male,73.5
+125,Colombia,2018,M,Male,73.3
+126,Colombia,2017,M,Male,72.7
+127,Colombia,2016,M,Male,72.5
+128,Colombia,2015,M,Male,72.2
+129,Colombia,2017,_T,Total,75.9
+130,Colombia,2016,_T,Total,75.7
+131,Colombia,2015,_T,Total,75.4
+132,Colombia,2022,F,Female,80.1
+133,Colombia,2021,F,Female,80.0
+134,Colombia,2020,F,Female,80.0
+135,Colombia,2019,F,Female,79.9
+136,Colombia,2018,F,Female,79.8
+137,Colombia,2017,F,Female,79.3
+138,Colombia,2016,F,Female,79.1
+139,Colombia,2015,F,Female,78.9
+140,Colombia,2022,M,Male,73.8
+141,Colombia,2021,M,Male,73.7
+142,Colombia,2020,M,Male,73.6
+143,Colombia,2022,_T,Total,76.9
+144,Costa Rica,2018,F,Female,82.9
+145,Costa Rica,2017,F,Female,82.7
+146,Costa Rica,2016,F,Female,82.6
+147,Costa Rica,2019,_T,Total,80.5
+148,Costa Rica,2018,_T,Total,80.3
+149,Costa Rica,2017,_T,Total,80.2
+150,Costa Rica,2016,_T,Total,80.0
+151,Costa Rica,2015,_T,Total,79.9
+152,Costa Rica,2015,F,Female,82.4
+153,Costa Rica,2023,M,Male,78.4
+154,Costa Rica,2022,M,Male,78.3
+155,Costa Rica,2021,M,Male,78.2
+156,Costa Rica,2020,M,Male,78.1
+157,Costa Rica,2019,M,Male,77.9
+158,Costa Rica,2018,M,Male,77.8
+159,Costa Rica,2017,M,Male,77.6
+160,Costa Rica,2016,M,Male,77.5
+161,Costa Rica,2015,M,Male,77.4
+162,Costa Rica,2023,_T,Total,81.0
+163,Costa Rica,2022,_T,Total,80.9
+164,Costa Rica,2021,_T,Total,80.8
+165,Costa Rica,2020,_T,Total,80.6
+166,Costa Rica,2023,F,Female,83.6
+167,Costa Rica,2022,F,Female,83.5
+168,Costa Rica,2021,F,Female,83.3
+169,Costa Rica,2020,F,Female,83.2
+170,Czechia,2018,F,Female,82.0
+171,Czechia,2017,F,Female,82.0
+172,Czechia,2016,F,Female,82.1
+173,Czechia,2019,M,Male,76.4
+174,Czechia,2018,M,Male,76.2
+175,Czechia,2017,M,Male,76.1
+176,Czechia,2016,M,Male,76.1
+177,Czechia,2015,M,Male,75.7
+178,Czechia,2015,F,Female,81.6
+179,Czechia,2023,_T,Total,80.0
+180,Czechia,2022,_T,Total,79.0
+181,Czechia,2021,_T,Total,77.2
+182,Czechia,2020,_T,Total,78.2
+183,Czechia,2019,_T,Total,79.3
+184,Czechia,2018,_T,Total,79.1
+185,Czechia,2017,_T,Total,79.1
+186,Czechia,2016,_T,Total,79.1
+187,Czechia,2015,_T,Total,78.7
+188,Czechia,2023,M,Male,77.0
+189,Czechia,2022,M,Male,76.1
+190,Czechia,2021,M,Male,74.1
+191,Czechia,2020,M,Male,75.2
+192,Czechia,2023,F,Female,82.9
+193,Czechia,2022,F,Female,81.9
+194,Czechia,2021,F,Female,80.5
+195,Czechia,2020,F,Female,81.3
+196,Denmark,2018,F,Female,82.9
+197,Denmark,2017,F,Female,83.1
+198,Denmark,2016,F,Female,82.8
+199,Denmark,2019,M,Male,79.5
+200,Denmark,2018,M,Male,79.1
+201,Denmark,2017,M,Male,79.2
+202,Denmark,2016,M,Male,79.0
+203,Denmark,2015,M,Male,78.8
+204,Denmark,2015,F,Female,82.7
+205,Denmark,2023,_T,Total,81.9
+206,Denmark,2022,_T,Total,81.3
+207,Denmark,2021,_T,Total,81.5
+208,Denmark,2020,_T,Total,81.6
+209,Denmark,2019,_T,Total,81.5
+210,Denmark,2018,_T,Total,81.0
+211,Denmark,2017,_T,Total,81.1
+212,Denmark,2016,_T,Total,80.9
+213,Denmark,2015,_T,Total,80.8
+214,Denmark,2023,M,Male,80.0
+215,Denmark,2022,M,Male,79.5
+216,Denmark,2021,M,Male,79.6
+217,Denmark,2020,M,Male,79.7
+218,Denmark,2023,F,Female,83.8
+219,Denmark,2022,F,Female,83.2
+220,Denmark,2021,F,Female,83.3
+221,Denmark,2020,F,Female,83.6
+222,Estonia,2018,M,Male,74.0
+223,Estonia,2017,M,Male,73.8
+224,Estonia,2016,M,Male,73.3
+225,Estonia,2019,_T,Total,79.0
+226,Estonia,2018,_T,Total,78.5
+227,Estonia,2017,_T,Total,78.4
+228,Estonia,2016,_T,Total,78.0
+229,Estonia,2015,_T,Total,78.0
+230,Estonia,2015,M,Male,73.2
+231,Estonia,2023,F,Female,83.1
+232,Estonia,2022,F,Female,82.3
+233,Estonia,2021,F,Female,81.4
+234,Estonia,2020,F,Female,83.0
+235,Estonia,2019,F,Female,83.0
+236,Estonia,2018,F,Female,82.7
+237,Estonia,2017,F,Female,82.6
+238,Estonia,2016,F,Female,82.2
+239,Estonia,2015,F,Female,82.2
+240,Estonia,2023,_T,Total,78.8
+241,Estonia,2022,_T,Total,78.1
+242,Estonia,2021,_T,Total,77.2
+243,Estonia,2020,_T,Total,78.9
+244,Estonia,2023,M,Male,74.1
+245,Estonia,2022,M,Male,73.6
+246,Estonia,2021,M,Male,72.7
+247,Estonia,2020,M,Male,74.4
+248,Finland,2018,M,Male,79.1
+249,Finland,2017,M,Male,78.9
+250,Finland,2016,M,Male,78.6
+251,Finland,2019,F,Female,84.8
+252,Finland,2018,F,Female,84.5
+253,Finland,2017,F,Female,84.5
+254,Finland,2016,F,Female,84.4
+255,Finland,2015,F,Female,84.4
+256,Finland,2015,M,Male,78.7
+257,Finland,2023,_T,Total,81.7
+258,Finland,2022,_T,Total,81.2
+259,Finland,2021,_T,Total,81.9
+260,Finland,2020,_T,Total,82.0
+261,Finland,2019,_T,Total,82.1
+262,Finland,2018,_T,Total,81.8
+263,Finland,2017,_T,Total,81.7
+264,Finland,2016,_T,Total,81.5
+265,Finland,2015,_T,Total,81.6
+266,Finland,2023,F,Female,84.4
+267,Finland,2022,F,Female,83.8
+268,Finland,2021,F,Female,84.6
+269,Finland,2020,F,Female,84.8
+270,Finland,2023,M,Male,79.1
+271,Finland,2022,M,Male,78.7
+272,Finland,2021,M,Male,79.3
+273,Finland,2020,M,Male,79.2
+274,France,2018,M,Male,79.7
+275,France,2017,M,Male,79.6
+276,France,2016,M,Male,79.5
+277,France,2019,_T,Total,83.0
+278,France,2018,_T,Total,82.8
+279,France,2017,_T,Total,82.7
+280,France,2016,_T,Total,82.7
+281,France,2015,_T,Total,82.4
+282,France,2015,M,Male,79.2
+283,France,2023,F,Female,85.9
+284,France,2022,F,Female,85.1
+285,France,2021,F,Female,85.5
+286,France,2020,F,Female,85.3
+287,France,2019,F,Female,85.9
+288,France,2018,F,Female,85.8
+289,France,2017,F,Female,85.7
+290,France,2016,F,Female,85.8
+291,France,2015,F,Female,85.6
+292,France,2023,_T,Total,83.1
+293,France,2022,_T,Total,82.3
+294,France,2021,_T,Total,82.4
+295,France,2020,_T,Total,82.3
+296,France,2023,M,Male,80.1
+297,France,2022,M,Male,79.3
+298,France,2021,M,Male,79.3
+299,France,2020,M,Male,79.2
+300,Germany,2020,M,Male,78.7
+301,Germany,2019,M,Male,79.0
+302,Germany,2018,M,Male,78.6
+303,Germany,2019,F,Female,83.7
+304,Germany,2018,F,Female,83.3
+305,Germany,2017,F,Female,83.4
+306,Germany,2016,F,Female,83.5
+307,Germany,2015,F,Female,83.1
+308,Germany,2017,M,Male,78.7
+309,Germany,2016,M,Male,78.6
+310,Germany,2015,M,Male,78.3
+311,Germany,2022,_T,Total,80.7
+312,Germany,2021,_T,Total,80.8
+313,Germany,2020,_T,Total,81.1
+314,Germany,2019,_T,Total,81.3
+315,Germany,2018,_T,Total,81.0
+316,Germany,2017,_T,Total,81.1
+317,Germany,2016,_T,Total,81.0
+318,Germany,2015,_T,Total,80.7
+319,Germany,2022,F,Female,83.0
+320,Germany,2021,F,Female,83.3
+321,Germany,2020,F,Female,83.5
+322,Germany,2022,M,Male,78.3
+323,Greece,2018,F,Female,84.4
+324,Greece,2017,F,Female,83.9
+325,Greece,2016,F,Female,84.0
+326,Greece,2019,_T,Total,81.7
+327,Greece,2018,_T,Total,81.9
+328,Greece,2017,_T,Total,81.4
+329,Greece,2016,_T,Total,81.5
+330,Greece,2015,_T,Total,81.1
+331,Greece,2015,F,Female,83.7
+332,Greece,2023,M,Male,79.0
+333,Greece,2022,M,Male,78.3
+334,Greece,2021,M,Male,77.4
+335,Greece,2020,M,Male,78.8
+336,Greece,2019,M,Male,79.2
+337,Greece,2018,M,Male,79.3
+338,Greece,2017,M,Male,78.8
+339,Greece,2016,M,Male,78.9
+340,Greece,2015,M,Male,78.5
+341,Greece,2023,_T,Total,81.6
+342,Greece,2022,_T,Total,80.8
+343,Greece,2021,_T,Total,80.2
+344,Greece,2020,_T,Total,81.4
+345,Greece,2023,F,Female,84.2
+346,Greece,2022,F,Female,83.4
+347,Greece,2021,F,Female,82.9
+348,Greece,2020,F,Female,83.9
+349,Hungary,2018,M,Male,72.7
+350,Hungary,2017,M,Male,72.5
+351,Hungary,2016,M,Male,72.6
+352,Hungary,2019,F,Female,79.7
+353,Hungary,2018,F,Female,79.6
+354,Hungary,2017,F,Female,79.3
+355,Hungary,2016,F,Female,79.7
+356,Hungary,2015,F,Female,79.0
+357,Hungary,2015,M,Male,72.3
+358,Hungary,2023,_T,Total,76.9
+359,Hungary,2022,_T,Total,76.0
+360,Hungary,2021,_T,Total,74.3
+361,Hungary,2020,_T,Total,75.7
+362,Hungary,2019,_T,Total,76.5
+363,Hungary,2018,_T,Total,76.2
+364,Hungary,2017,_T,Total,76.0
+365,Hungary,2016,_T,Total,76.2
+366,Hungary,2015,_T,Total,75.7
+367,Hungary,2023,F,Female,80.1
+368,Hungary,2022,F,Female,79.3
+369,Hungary,2021,F,Female,77.8
+370,Hungary,2020,F,Female,79.0
+371,Hungary,2023,M,Male,73.6
+372,Hungary,2022,M,Male,72.6
+373,Hungary,2021,M,Male,70.7
+374,Hungary,2020,M,Male,72.3
+375,Iceland,2018,M,Male,81.3
+376,Iceland,2017,M,Male,81.1
+377,Iceland,2016,M,Male,80.4
+378,Iceland,2019,F,Female,84.7
+379,Iceland,2018,F,Female,84.5
+380,Iceland,2017,F,Female,84.3
+381,Iceland,2016,F,Female,84.1
+382,Iceland,2015,F,Female,83.8
+383,Iceland,2015,M,Male,81.2
+384,Iceland,2023,_T,Total,82.6
+385,Iceland,2022,_T,Total,82.1
+386,Iceland,2021,_T,Total,83.2
+387,Iceland,2020,_T,Total,83.1
+388,Iceland,2019,_T,Total,83.2
+389,Iceland,2018,_T,Total,82.9
+390,Iceland,2017,_T,Total,82.6
+391,Iceland,2016,_T,Total,82.2
+392,Iceland,2015,_T,Total,82.5
+393,Iceland,2023,F,Female,84.4
+394,Iceland,2022,F,Female,83.4
+395,Iceland,2021,F,Female,84.6
+396,Iceland,2020,F,Female,84.6
+397,Iceland,2023,M,Male,80.9
+398,Iceland,2022,M,Male,80.9
+399,Iceland,2021,M,Male,81.8
+400,Iceland,2020,M,Male,81.6
+401,Ireland,2020,F,Female,84.4
+402,Ireland,2019,F,Female,84.7
+403,Ireland,2018,F,Female,84.1
+404,Ireland,2019,M,Male,80.8
+405,Ireland,2018,M,Male,80.4
+406,Ireland,2017,M,Male,80.4
+407,Ireland,2016,M,Male,79.8
+408,Ireland,2015,M,Male,79.6
+409,Ireland,2017,F,Female,84.0
+410,Ireland,2016,F,Female,83.6
+411,Ireland,2015,F,Female,83.4
+412,Ireland,2022,_T,Total,82.6
+413,Ireland,2021,_T,Total,82.4
+414,Ireland,2020,_T,Total,82.6
+415,Ireland,2019,_T,Total,82.8
+416,Ireland,2018,_T,Total,82.2
+417,Ireland,2017,_T,Total,82.2
+418,Ireland,2016,_T,Total,81.7
+419,Ireland,2015,_T,Total,81.5
+420,Ireland,2022,M,Male,80.9
+421,Ireland,2021,M,Male,80.5
+422,Ireland,2020,M,Male,80.8
+423,Ireland,2022,F,Female,84.2
+424,Israel,2020,M,Male,80.6
+425,Israel,2019,M,Male,81.0
+426,Israel,2018,M,Male,80.9
+427,Israel,2019,_T,Total,82.9
+428,Israel,2018,_T,Total,82.9
+429,Israel,2017,_T,Total,82.7
+430,Israel,2016,_T,Total,82.5
+431,Israel,2015,_T,Total,82.2
+432,Israel,2017,M,Male,80.6
+433,Israel,2016,M,Male,80.7
+434,Israel,2015,M,Male,80.1
+435,Israel,2022,F,Female,84.8
+436,Israel,2021,F,Female,84.6
+437,Israel,2020,F,Female,84.8
+438,Israel,2019,F,Female,84.7
+439,Israel,2018,F,Female,84.8
+440,Israel,2017,F,Female,84.6
+441,Israel,2016,F,Female,84.2
+442,Israel,2015,F,Female,84.1
+443,Israel,2022,_T,Total,82.8
+444,Israel,2021,_T,Total,82.6
+445,Israel,2020,_T,Total,82.7
+446,Israel,2022,M,Male,80.7
+447,Italy,2018,M,Male,81.2
+448,Italy,2017,M,Male,80.8
+449,Italy,2016,M,Male,81.0
+450,Italy,2019,F,Female,85.7
+451,Italy,2018,F,Female,85.6
+452,Italy,2017,F,Female,85.2
+453,Italy,2016,F,Female,85.6
+454,Italy,2015,F,Female,84.9
+455,Italy,2015,M,Male,80.3
+456,Italy,2023,_T,Total,83.8
+457,Italy,2022,_T,Total,82.8
+458,Italy,2021,_T,Total,82.7
+459,Italy,2020,_T,Total,82.3
+460,Italy,2019,_T,Total,83.6
+461,Italy,2018,_T,Total,83.4
+462,Italy,2017,_T,Total,83.1
+463,Italy,2016,_T,Total,83.4
+464,Italy,2015,_T,Total,82.7
+465,Italy,2023,F,Female,85.8
+466,Italy,2022,F,Female,84.8
+467,Italy,2021,F,Female,84.9
+468,Italy,2020,F,Female,84.5
+469,Italy,2023,M,Male,81.7
+470,Italy,2022,M,Male,80.7
+471,Italy,2021,M,Male,80.5
+472,Italy,2020,M,Male,80.0
+473,Japan,2020,_T,Total,84.6
+474,Japan,2019,_T,Total,84.4
+475,Japan,2018,_T,Total,84.3
+476,Japan,2019,M,Male,81.4
+477,Japan,2018,M,Male,81.3
+478,Japan,2017,M,Male,81.1
+479,Japan,2016,M,Male,81.0
+480,Japan,2015,M,Male,80.8
+481,Japan,2017,_T,Total,84.2
+482,Japan,2016,_T,Total,84.1
+483,Japan,2015,_T,Total,83.9
+484,Japan,2022,F,Female,87.1
+485,Japan,2021,F,Female,87.6
+486,Japan,2020,F,Female,87.7
+487,Japan,2019,F,Female,87.4
+488,Japan,2018,F,Female,87.3
+489,Japan,2017,F,Female,87.3
+490,Japan,2016,F,Female,87.1
+491,Japan,2015,F,Female,87.0
+492,Japan,2022,M,Male,81.1
+493,Japan,2021,M,Male,81.5
+494,Japan,2020,M,Male,81.6
+495,Japan,2022,_T,Total,84.1
+496,Korea,2020,F,Female,86.5
+497,Korea,2019,F,Female,86.3
+498,Korea,2018,F,Female,85.7
+499,Korea,2019,_T,Total,83.3
+500,Korea,2018,_T,Total,82.7
+501,Korea,2017,_T,Total,82.7
+502,Korea,2016,_T,Total,82.4
+503,Korea,2015,_T,Total,82.1
+504,Korea,2017,F,Female,85.7
+505,Korea,2016,F,Female,85.4
+506,Korea,2015,F,Female,85.2
+507,Korea,2022,M,Male,79.9
+508,Korea,2021,M,Male,80.6
+509,Korea,2020,M,Male,80.5
+510,Korea,2019,M,Male,80.3
+511,Korea,2018,M,Male,79.7
+512,Korea,2017,M,Male,79.7
+513,Korea,2016,M,Male,79.3
+514,Korea,2015,M,Male,79.0
+515,Korea,2022,_T,Total,82.7
+516,Korea,2021,_T,Total,83.6
+517,Korea,2020,_T,Total,83.5
+518,Korea,2022,F,Female,85.6
+519,Latvia,2018,F,Female,79.7
+520,Latvia,2017,F,Female,79.7
+521,Latvia,2016,F,Female,79.6
+522,Latvia,2019,_T,Total,75.7
+523,Latvia,2018,_T,Total,75.1
+524,Latvia,2017,_T,Total,74.9
+525,Latvia,2016,_T,Total,74.9
+526,Latvia,2015,_T,Total,74.8
+527,Latvia,2015,F,Female,79.5
+528,Latvia,2023,M,Male,70.8
+529,Latvia,2022,M,Male,69.4
+530,Latvia,2021,M,Male,68.2
+531,Latvia,2020,M,Male,70.6
+532,Latvia,2019,M,Male,70.9
+533,Latvia,2018,M,Male,70.1
+534,Latvia,2017,M,Male,69.8
+535,Latvia,2016,M,Male,69.8
+536,Latvia,2015,M,Male,69.7
+537,Latvia,2023,_T,Total,75.9
+538,Latvia,2022,_T,Total,74.5
+539,Latvia,2021,_T,Total,73.1
+540,Latvia,2020,_T,Total,75.5
+541,Latvia,2023,F,Female,80.8
+542,Latvia,2022,F,Female,79.4
+543,Latvia,2021,F,Female,78.0
+544,Latvia,2020,F,Female,80.0
+545,Lithuania,2018,M,Male,70.9
+546,Lithuania,2017,M,Male,70.7
+547,Lithuania,2016,M,Male,69.5
+548,Lithuania,2019,F,Female,81.2
+549,Lithuania,2018,F,Female,80.7
+550,Lithuania,2017,F,Female,80.5
+551,Lithuania,2016,F,Female,80.1
+552,Lithuania,2015,F,Female,79.7
+553,Lithuania,2015,M,Male,69.2
+554,Lithuania,2023,_T,Total,77.3
+555,Lithuania,2022,_T,Total,75.8
+556,Lithuania,2021,_T,Total,74.2
+557,Lithuania,2020,_T,Total,75.1
+558,Lithuania,2019,_T,Total,76.5
+559,Lithuania,2018,_T,Total,76.0
+560,Lithuania,2017,_T,Total,75.8
+561,Lithuania,2016,_T,Total,74.9
+562,Lithuania,2015,_T,Total,74.6
+563,Lithuania,2023,F,Female,81.7
+564,Lithuania,2022,F,Female,80.1
+565,Lithuania,2021,F,Female,78.8
+566,Lithuania,2020,F,Female,80.1
+567,Lithuania,2023,M,Male,72.5
+568,Lithuania,2022,M,Male,71.4
+569,Lithuania,2021,M,Male,69.5
+570,Lithuania,2020,M,Male,70.1
+571,Luxembourg,2018,M,Male,80.1
+572,Luxembourg,2017,M,Male,79.9
+573,Luxembourg,2016,M,Male,80.1
+574,Luxembourg,2019,_T,Total,82.7
+575,Luxembourg,2018,_T,Total,82.3
+576,Luxembourg,2017,_T,Total,82.1
+577,Luxembourg,2016,_T,Total,82.7
+578,Luxembourg,2015,_T,Total,82.4
+579,Luxembourg,2015,M,Male,80.0
+580,Luxembourg,2023,F,Female,85.1
+581,Luxembourg,2022,F,Female,85.2
+582,Luxembourg,2021,F,Female,84.8
+583,Luxembourg,2020,F,Female,84.5
+584,Luxembourg,2019,F,Female,85.2
+585,Luxembourg,2018,F,Female,84.6
+586,Luxembourg,2017,F,Female,84.4
+587,Luxembourg,2016,F,Female,85.4
+588,Luxembourg,2015,F,Female,84.7
+589,Luxembourg,2023,_T,Total,83.4
+590,Luxembourg,2022,_T,Total,83.0
+591,Luxembourg,2021,_T,Total,82.7
+592,Luxembourg,2020,_T,Total,82.2
+593,Luxembourg,2023,M,Male,81.7
+594,Luxembourg,2022,M,Male,80.8
+595,Luxembourg,2021,M,Male,80.5
+596,Luxembourg,2020,M,Male,79.9
+597,Mexico,2018,M,Male,71.8
+598,Mexico,2017,M,Male,72.0
+599,Mexico,2016,M,Male,72.0
+600,Mexico,2019,F,Female,78.0
+601,Mexico,2018,F,Female,78.0
+602,Mexico,2017,F,Female,77.9
+603,Mexico,2016,F,Female,77.7
+604,Mexico,2015,F,Female,77.8
+605,Mexico,2015,M,Male,72.4
+606,Mexico,2023,_T,Total,75.3
+607,Mexico,2022,_T,Total,75.2
+608,Mexico,2021,_T,Total,68.8
+609,Mexico,2020,_T,Total,68.9
+610,Mexico,2019,_T,Total,74.8
+611,Mexico,2018,_T,Total,74.9
+612,Mexico,2017,_T,Total,74.8
+613,Mexico,2016,_T,Total,74.8
+614,Mexico,2015,_T,Total,75.1
+615,Mexico,2023,F,Female,78.6
+616,Mexico,2022,F,Female,78.5
+617,Mexico,2021,F,Female,73.1
+618,Mexico,2020,F,Female,73.5
+619,Mexico,2023,M,Male,72.3
+620,Mexico,2022,M,Male,72.1
+621,Mexico,2021,M,Male,64.9
+622,Mexico,2020,M,Male,64.9
+623,Netherlands,2018,M,Male,80.3
+624,Netherlands,2017,M,Male,80.2
+625,Netherlands,2016,M,Male,80.0
+626,Netherlands,2019,_T,Total,82.2
+627,Netherlands,2018,_T,Total,81.9
+628,Netherlands,2017,_T,Total,81.8
+629,Netherlands,2016,_T,Total,81.7
+630,Netherlands,2015,_T,Total,81.6
+631,Netherlands,2015,M,Male,79.9
+632,Netherlands,2023,F,Female,83.4
+633,Netherlands,2022,F,Female,83.1
+634,Netherlands,2021,F,Female,83.0
+635,Netherlands,2020,F,Female,83.1
+636,Netherlands,2019,F,Female,83.7
+637,Netherlands,2018,F,Female,83.4
+638,Netherlands,2017,F,Female,83.4
+639,Netherlands,2016,F,Female,83.2
+640,Netherlands,2015,F,Female,83.2
+641,Netherlands,2023,_T,Total,82.0
+642,Netherlands,2022,_T,Total,81.7
+643,Netherlands,2021,_T,Total,81.4
+644,Netherlands,2020,_T,Total,81.4
+645,Netherlands,2023,M,Male,80.5
+646,Netherlands,2022,M,Male,80.2
+647,Netherlands,2021,M,Male,79.7
+648,Netherlands,2020,M,Male,79.7
+649,New Zealand,2020,_T,Total,82.3
+650,New Zealand,2019,_T,Total,82.1
+651,New Zealand,2018,_T,Total,81.7
+652,New Zealand,2019,F,Female,83.9
+653,New Zealand,2018,F,Female,83.5
+654,New Zealand,2017,F,Female,83.4
+655,New Zealand,2016,F,Female,83.4
+656,New Zealand,2015,F,Female,83.3
+657,New Zealand,2017,_T,Total,81.7
+658,New Zealand,2016,_T,Total,81.6
+659,New Zealand,2015,_T,Total,81.5
+660,New Zealand,2022,M,Male,80.3
+661,New Zealand,2021,M,Male,80.5
+662,New Zealand,2020,M,Male,80.5
+663,New Zealand,2019,M,Male,80.3
+664,New Zealand,2018,M,Male,80.0
+665,New Zealand,2017,M,Male,79.9
+666,New Zealand,2016,M,Male,79.8
+667,New Zealand,2015,M,Male,79.7
+668,New Zealand,2022,F,Female,83.7
+669,New Zealand,2021,F,Female,84.0
+670,New Zealand,2020,F,Female,84.1
+671,New Zealand,2022,_T,Total,82.0
+672,Norway,2020,_T,Total,83.3
+673,Norway,2019,_T,Total,83.0
+674,Norway,2018,_T,Total,82.8
+675,Norway,2019,M,Male,81.3
+676,Norway,2018,M,Male,81.1
+677,Norway,2017,M,Male,81.0
+678,Norway,2016,M,Male,80.7
+679,Norway,2015,M,Male,80.5
+680,Norway,2017,_T,Total,82.7
+681,Norway,2016,_T,Total,82.5
+682,Norway,2015,_T,Total,82.4
+683,Norway,2022,F,Female,84.2
+684,Norway,2021,F,Female,84.7
+685,Norway,2020,F,Female,84.9
+686,Norway,2019,F,Female,84.7
+687,Norway,2018,F,Female,84.5
+688,Norway,2017,F,Female,84.3
+689,Norway,2016,F,Female,84.2
+690,Norway,2015,F,Female,84.2
+691,Norway,2022,M,Male,81.0
+692,Norway,2021,M,Male,81.7
+693,Norway,2020,M,Male,81.6
+694,Norway,2022,_T,Total,82.6
+695,Poland,2018,F,Female,81.7
+696,Poland,2017,F,Female,81.8
+697,Poland,2016,F,Female,82.0
+698,Poland,2019,M,Male,74.1
+699,Poland,2018,M,Male,73.7
+700,Poland,2017,M,Male,73.9
+701,Poland,2016,M,Male,73.9
+702,Poland,2015,M,Male,73.5
+703,Poland,2015,F,Female,81.6
+704,Poland,2023,_T,Total,78.6
+705,Poland,2022,_T,Total,77.2
+706,Poland,2021,_T,Total,75.4
+707,Poland,2020,_T,Total,76.4
+708,Poland,2019,_T,Total,78.0
+709,Poland,2018,_T,Total,77.7
+710,Poland,2017,_T,Total,77.8
+711,Poland,2016,_T,Total,78.0
+712,Poland,2015,_T,Total,77.5
+713,Poland,2023,M,Male,74.8
+714,Poland,2022,M,Male,73.4
+715,Poland,2021,M,Male,71.4
+716,Poland,2020,M,Male,72.4
+717,Poland,2023,F,Female,82.4
+718,Poland,2022,F,Female,81.1
+719,Poland,2021,F,Female,79.5
+720,Poland,2020,F,Female,80.6
+721,Portugal,2018,M,Male,78.3
+722,Portugal,2017,M,Male,78.4
+723,Portugal,2016,M,Male,78.1
+724,Portugal,2019,_T,Total,81.9
+725,Portugal,2018,_T,Total,81.5
+726,Portugal,2017,_T,Total,81.6
+727,Portugal,2016,_T,Total,81.3
+728,Portugal,2015,_T,Total,81.3
+729,Portugal,2015,M,Male,78.1
+730,Portugal,2023,F,Female,85.2
+731,Portugal,2022,F,Female,84.5
+732,Portugal,2021,F,Female,84.4
+733,Portugal,2020,F,Female,84.1
+734,Portugal,2019,F,Female,84.8
+735,Portugal,2018,F,Female,84.5
+736,Portugal,2017,F,Female,84.6
+737,Portugal,2016,F,Female,84.3
+738,Portugal,2015,F,Female,84.3
+739,Portugal,2023,_T,Total,82.4
+740,Portugal,2022,_T,Total,81.8
+741,Portugal,2021,_T,Total,81.5
+742,Portugal,2020,_T,Total,81.1
+743,Portugal,2023,M,Male,79.5
+744,Portugal,2022,M,Male,78.9
+745,Portugal,2021,M,Male,78.5
+746,Portugal,2020,M,Male,78.0
+747,Slovak Republic,2018,_T,Total,77.4
+748,Slovak Republic,2017,_T,Total,77.3
+749,Slovak Republic,2016,_T,Total,77.3
+750,Slovak Republic,2019,F,Female,81.2
+751,Slovak Republic,2018,F,Female,80.8
+752,Slovak Republic,2017,F,Female,80.7
+753,Slovak Republic,2016,F,Female,80.7
+754,Slovak Republic,2015,F,Female,80.2
+755,Slovak Republic,2015,_T,Total,76.7
+756,Slovak Republic,2023,M,Male,74.7
+757,Slovak Republic,2022,M,Male,73.6
+758,Slovak Republic,2021,M,Male,71.2
+759,Slovak Republic,2020,M,Male,73.5
+760,Slovak Republic,2019,M,Male,74.3
+761,Slovak Republic,2018,M,Male,73.9
+762,Slovak Republic,2017,M,Male,73.8
+763,Slovak Republic,2016,M,Male,73.8
+764,Slovak Republic,2015,M,Male,73.1
+765,Slovak Republic,2023,F,Female,81.5
+766,Slovak Republic,2022,F,Female,80.5
+767,Slovak Republic,2021,F,Female,78.2
+768,Slovak Republic,2020,F,Female,80.4
+769,Slovak Republic,2023,_T,Total,78.1
+770,Slovak Republic,2022,_T,Total,77.0
+771,Slovak Republic,2021,_T,Total,74.6
+772,Slovak Republic,2020,_T,Total,77.0
+773,Slovenia,2018,_T,Total,81.5
+774,Slovenia,2017,_T,Total,81.2
+775,Slovenia,2016,_T,Total,81.2
+776,Slovenia,2019,F,Female,84.5
+777,Slovenia,2018,F,Female,84.4
+778,Slovenia,2017,F,Female,84.0
+779,Slovenia,2016,F,Female,84.3
+780,Slovenia,2015,F,Female,83.9
+781,Slovenia,2015,_T,Total,80.9
+782,Slovenia,2023,M,Male,79.1
+783,Slovenia,2022,M,Male,78.6
+784,Slovenia,2021,M,Male,77.7
+785,Slovenia,2020,M,Male,77.8
+786,Slovenia,2019,M,Male,78.7
+787,Slovenia,2018,M,Male,78.5
+788,Slovenia,2017,M,Male,78.2
+789,Slovenia,2016,M,Male,78.2
+790,Slovenia,2015,M,Male,77.8
+791,Slovenia,2023,F,Female,85.0
+792,Slovenia,2022,F,Female,84.1
+793,Slovenia,2021,F,Female,83.8
+794,Slovenia,2020,F,Female,83.4
+795,Slovenia,2023,_T,Total,82.0
+796,Slovenia,2022,_T,Total,81.3
+797,Slovenia,2021,_T,Total,80.7
+798,Slovenia,2020,_T,Total,80.6
+799,Spain,2018,F,Female,86.3
+800,Spain,2017,F,Female,86.1
+801,Spain,2016,F,Female,86.3
+802,Spain,2019,M,Male,81.1
+803,Spain,2018,M,Male,80.7
+804,Spain,2017,M,Male,80.6
+805,Spain,2016,M,Male,80.5
+806,Spain,2015,M,Male,80.1
+807,Spain,2015,F,Female,85.7
+808,Spain,2023,_T,Total,84.0
+809,Spain,2022,_T,Total,83.2
+810,Spain,2021,_T,Total,83.3
+811,Spain,2020,_T,Total,82.4
+812,Spain,2019,_T,Total,84.0
+813,Spain,2018,_T,Total,83.5
+814,Spain,2017,_T,Total,83.4
+815,Spain,2016,_T,Total,83.5
+816,Spain,2015,_T,Total,83.0
+817,Spain,2023,M,Male,81.2
+818,Spain,2022,M,Male,80.5
+819,Spain,2021,M,Male,80.4
+820,Spain,2020,M,Male,79.6
+821,Spain,2023,F,Female,86.7
+822,Spain,2022,F,Female,85.9
+823,Spain,2021,F,Female,86.2
+824,Spain,2020,F,Female,85.2
+825,Sweden,2018,F,Female,84.3
+826,Sweden,2017,F,Female,84.1
+827,Sweden,2016,F,Female,84.1
+828,Sweden,2019,M,Male,81.5
+829,Sweden,2018,M,Male,80.9
+830,Sweden,2017,M,Male,80.8
+831,Sweden,2016,M,Male,80.6
+832,Sweden,2015,M,Male,80.4
+833,Sweden,2015,F,Female,84.1
+834,Sweden,2023,_T,Total,83.4
+835,Sweden,2022,_T,Total,83.1
+836,Sweden,2021,_T,Total,83.1
+837,Sweden,2020,_T,Total,82.4
+838,Sweden,2019,_T,Total,83.2
+839,Sweden,2018,_T,Total,82.6
+840,Sweden,2017,_T,Total,82.5
+841,Sweden,2016,_T,Total,82.4
+842,Sweden,2015,_T,Total,82.2
+843,Sweden,2023,M,Male,81.7
+844,Sweden,2022,M,Male,81.4
+845,Sweden,2021,M,Male,81.3
+846,Sweden,2020,M,Male,80.6
+847,Sweden,2023,F,Female,85.0
+848,Sweden,2022,F,Female,84.8
+849,Sweden,2021,F,Female,84.9
+850,Sweden,2020,F,Female,84.2
+851,Switzerland,2018,M,Male,81.9
+852,Switzerland,2017,M,Male,81.6
+853,Switzerland,2016,M,Male,81.7
+854,Switzerland,2019,_T,Total,84.0
+855,Switzerland,2018,_T,Total,83.8
+856,Switzerland,2017,_T,Total,83.7
+857,Switzerland,2016,_T,Total,83.7
+858,Switzerland,2015,_T,Total,83.0
+859,Switzerland,2015,M,Male,80.8
+860,Switzerland,2023,F,Female,85.9
+861,Switzerland,2022,F,Female,85.5
+862,Switzerland,2021,F,Female,85.8
+863,Switzerland,2020,F,Female,85.1
+864,Switzerland,2019,F,Female,85.8
+865,Switzerland,2018,F,Female,85.7
+866,Switzerland,2017,F,Female,85.6
+867,Switzerland,2016,F,Female,85.6
+868,Switzerland,2015,F,Female,85.1
+869,Switzerland,2023,_T,Total,84.2
+870,Switzerland,2022,_T,Total,83.7
+871,Switzerland,2021,_T,Total,83.9
+872,Switzerland,2020,_T,Total,83.1
+873,Switzerland,2023,M,Male,82.3
+874,Switzerland,2022,M,Male,81.8
+875,Switzerland,2021,M,Male,81.8
+876,Switzerland,2020,M,Male,81.0
+877,Türkiye,2020,M,Male,75.0
+878,Türkiye,2019,M,Male,75.9
+879,Türkiye,2018,M,Male,75.6
+880,Türkiye,2019,F,Female,81.3
+881,Türkiye,2018,F,Female,81.0
+882,Türkiye,2017,F,Female,80.8
+883,Türkiye,2016,F,Female,80.7
+884,Türkiye,2015,F,Female,80.7
+885,Türkiye,2017,M,Male,75.3
+886,Türkiye,2016,M,Male,75.3
+887,Türkiye,2015,M,Male,75.3
+888,Türkiye,2022,_T,Total,77.3
+889,Türkiye,2021,_T,Total,77.5
+890,Türkiye,2020,_T,Total,77.7
+891,Türkiye,2019,_T,Total,78.6
+892,Türkiye,2018,_T,Total,78.3
+893,Türkiye,2017,_T,Total,78.1
+894,Türkiye,2016,_T,Total,78.0
+895,Türkiye,2015,_T,Total,78.0
+896,Türkiye,2022,F,Female,80.0
+897,Türkiye,2021,F,Female,80.3
+898,Türkiye,2020,F,Female,80.5
+899,Türkiye,2022,M,Male,74.7
+900,United Kingdom,2020,_T,Total,80.3
+901,United Kingdom,2019,_T,Total,81.3
+902,United Kingdom,2018,_T,Total,81.0
+903,United Kingdom,2019,M,Male,79.5
+904,United Kingdom,2018,M,Male,79.2
+905,United Kingdom,2017,M,Male,79.2
+906,United Kingdom,2016,M,Male,79.2
+907,United Kingdom,2015,M,Male,79.0
+908,United Kingdom,2017,_T,Total,81.1
+909,United Kingdom,2016,_T,Total,81.0
+910,United Kingdom,2015,_T,Total,80.8
+911,United Kingdom,2022,F,Female,82.9
+912,United Kingdom,2021,F,Female,82.5
+913,United Kingdom,2020,F,Female,82.3
+914,United Kingdom,2019,F,Female,83.2
+915,United Kingdom,2018,F,Female,82.9
+916,United Kingdom,2017,F,Female,82.9
+917,United Kingdom,2016,F,Female,82.8
+918,United Kingdom,2015,F,Female,82.7
+919,United Kingdom,2022,M,Male,79.0
+920,United Kingdom,2021,M,Male,78.5
+921,United Kingdom,2020,M,Male,78.3
+922,United Kingdom,2022,_T,Total,80.9
+923,United States,2020,F,Female,79.9
+924,United States,2021,M,Male,73.5
+925,United States,2020,M,Male,74.2
+926,United States,2019,F,Female,81.4
+927,United States,2018,F,Female,81.2
+928,United States,2017,F,Female,81.1
+929,United States,2016,F,Female,81.1
+930,United States,2015,F,Female,81.1
+931,United States,2019,M,Male,76.3
+932,United States,2018,M,Male,76.2
+933,United States,2017,M,Male,76.1
+934,United States,2016,M,Male,76.2
+935,United States,2015,M,Male,76.3
+936,United States,2021,_T,Total,76.4
+937,United States,2020,_T,Total,77.0
+938,United States,2019,_T,Total,78.8
+939,United States,2018,_T,Total,78.7
+940,United States,2017,_T,Total,78.6
+941,United States,2016,_T,Total,78.7
+942,United States,2015,_T,Total,78.7
+943,Argentina,2020,M,Male,72.5
+944,Argentina,2019,M,Male,73.9
+945,Argentina,2018,M,Male,73.6
+946,Argentina,2019,F,Female,80.7
+947,Argentina,2018,F,Female,80.3
+948,Argentina,2017,F,Female,80.1
+949,Argentina,2016,F,Female,79.7
+950,Argentina,2015,F,Female,80.2
+951,Argentina,2017,M,Male,73.5
+952,Argentina,2016,M,Male,72.9
+953,Argentina,2015,M,Male,73.3
+954,Argentina,2022,_T,Total,76.1
+955,Argentina,2021,_T,Total,75.4
+956,Argentina,2020,_T,Total,75.9
+957,Argentina,2019,_T,Total,77.3
+958,Argentina,2018,_T,Total,77.0
+959,Argentina,2017,_T,Total,76.8
+960,Argentina,2016,_T,Total,76.3
+961,Argentina,2015,_T,Total,76.8
+962,Argentina,2022,F,Female,79.3
+963,Argentina,2021,F,Female,78.6
+964,Argentina,2020,F,Female,79.3
+965,Argentina,2022,M,Male,72.9
+966,Brazil,2020,F,Female,77.4
+967,Brazil,2019,F,Female,78.5
+968,Brazil,2018,F,Female,78.3
+969,Brazil,2019,M,Male,72.2
+970,Brazil,2018,M,Male,72.0
+971,Brazil,2017,M,Male,71.6
+972,Brazil,2016,M,Male,71.1
+973,Brazil,2015,M,Male,71.1
+974,Brazil,2017,F,Female,78.0
+975,Brazil,2016,F,Female,77.8
+976,Brazil,2015,F,Female,77.6
+977,Brazil,2022,_T,Total,73.4
+978,Brazil,2021,_T,Total,72.8
+979,Brazil,2020,_T,Total,74.0
+980,Brazil,2019,_T,Total,75.3
+981,Brazil,2018,_T,Total,75.1
+982,Brazil,2017,_T,Total,74.8
+983,Brazil,2016,_T,Total,74.4
+984,Brazil,2015,_T,Total,74.3
+985,Brazil,2022,M,Male,70.3
+986,Brazil,2021,M,Male,69.6
+987,Brazil,2020,M,Male,70.7
+988,Brazil,2022,F,Female,76.6
+989,Bulgaria,2018,F,Female,78.6
+990,Bulgaria,2017,F,Female,78.4
+991,Bulgaria,2016,F,Female,78.5
+992,Bulgaria,2019,M,Male,71.6
+993,Bulgaria,2018,M,Male,71.5
+994,Bulgaria,2017,M,Male,71.4
+995,Bulgaria,2016,M,Male,71.3
+996,Bulgaria,2015,M,Male,71.2
+997,Bulgaria,2015,F,Female,78.2
+998,Bulgaria,2023,_T,Total,75.8
+999,Bulgaria,2022,_T,Total,74.2
+1000,Bulgaria,2021,_T,Total,71.4
+1001,Bulgaria,2020,_T,Total,73.6
+1002,Bulgaria,2019,_T,Total,75.1
+1003,Bulgaria,2018,_T,Total,75.0
+1004,Bulgaria,2017,_T,Total,74.8
+1005,Bulgaria,2016,_T,Total,74.9
+1006,Bulgaria,2015,_T,Total,74.7
+1007,Bulgaria,2023,M,Male,72.0
+1008,Bulgaria,2022,M,Male,70.6
+1009,Bulgaria,2021,M,Male,68.0
+1010,Bulgaria,2020,M,Male,70.0
+1011,Bulgaria,2023,F,Female,79.6
+1012,Bulgaria,2022,F,Female,77.9
+1013,Bulgaria,2021,F,Female,75.1
+1014,Bulgaria,2020,F,Female,77.5
+1015,China (People’s Republic of),2020,_T,Total,78.1
+1016,China (People’s Republic of),2019,_T,Total,78.0
+1017,China (People’s Republic of),2018,_T,Total,77.7
+1018,China (People’s Republic of),2019,M,Male,75.3
+1019,China (People’s Republic of),2018,M,Male,75.0
+1020,China (People’s Republic of),2017,M,Male,74.4
+1021,China (People’s Republic of),2016,M,Male,74.6
+1022,China (People’s Republic of),2015,M,Male,74.4
+1023,China (People’s Republic of),2017,_T,Total,77.2
+1024,China (People’s Republic of),2016,_T,Total,77.2
+1025,China (People’s Republic of),2015,_T,Total,77.0
+1026,China (People’s Republic of),2022,F,Female,81.3
+1027,China (People’s Republic of),2021,F,Female,81.2
+1028,China (People’s Republic of),2020,F,Female,81.1
+1029,China (People’s Republic of),2019,F,Female,80.8
+1030,China (People’s Republic of),2018,F,Female,80.6
+1031,China (People’s Republic of),2017,F,Female,80.3
+1032,China (People’s Republic of),2016,F,Female,80.1
+1033,China (People’s Republic of),2015,F,Female,79.8
+1034,China (People’s Republic of),2022,M,Male,76.0
+1035,China (People’s Republic of),2021,M,Male,75.5
+1036,China (People’s Republic of),2020,M,Male,75.3
+1037,China (People’s Republic of),2022,_T,Total,78.6
+1038,Croatia,2018,F,Female,81.5
+1039,Croatia,2017,F,Female,81.0
+1040,Croatia,2016,F,Female,81.3
+1041,Croatia,2019,M,Male,75.5
+1042,Croatia,2018,M,Male,74.9
+1043,Croatia,2017,M,Male,74.9
+1044,Croatia,2016,M,Male,75.0
+1045,Croatia,2015,M,Male,74.4
+1046,Croatia,2015,F,Female,80.5
+1047,Croatia,2023,_T,Total,78.6
+1048,Croatia,2022,_T,Total,77.7
+1049,Croatia,2021,_T,Total,76.6
+1050,Croatia,2020,_T,Total,77.6
+1051,Croatia,2019,_T,Total,78.6
+1052,Croatia,2018,_T,Total,78.2
+1053,Croatia,2017,_T,Total,78.0
+1054,Croatia,2016,_T,Total,78.2
+1055,Croatia,2015,_T,Total,77.5
+1056,Croatia,2023,M,Male,75.4
+1057,Croatia,2022,M,Male,74.6
+1058,Croatia,2021,M,Male,73.5
+1059,Croatia,2020,M,Male,74.5
+1060,Croatia,2023,F,Female,81.8
+1061,Croatia,2022,F,Female,80.8
+1062,Croatia,2021,F,Female,79.7
+1063,Croatia,2020,F,Female,80.7
+1064,India,2020,M,Male,68.6
+1065,India,2019,M,Male,69.5
+1066,India,2018,M,Male,69.4
+1067,India,2019,F,Female,72.4
+1068,India,2018,F,Female,72.1
+1069,India,2017,F,Female,71.9
+1070,India,2016,F,Female,71.5
+1071,India,2015,F,Female,71.1
+1072,India,2017,M,Male,69.2
+1073,India,2016,M,Male,68.8
+1074,India,2015,M,Male,68.3
+1075,India,2022,_T,Total,67.7
+1076,India,2021,_T,Total,67.2
+1077,India,2020,_T,Total,70.2
+1078,India,2019,_T,Total,70.9
+1079,India,2018,_T,Total,70.7
+1080,India,2017,_T,Total,70.5
+1081,India,2016,_T,Total,70.1
+1082,India,2015,_T,Total,69.6
+1083,India,2022,F,Female,69.4
+1084,India,2021,F,Female,68.9
+1085,India,2020,F,Female,71.8
+1086,India,2022,M,Male,66.3
+1087,Indonesia,2020,F,Female,71.0
+1088,Indonesia,2019,F,Female,72.6
+1089,Indonesia,2018,F,Female,72.4
+1090,Indonesia,2019,M,Male,68.5
+1091,Indonesia,2018,M,Male,68.3
+1092,Indonesia,2017,M,Male,68.0
+1093,Indonesia,2016,M,Male,67.9
+1094,Indonesia,2015,M,Male,67.8
+1095,Indonesia,2017,F,Female,71.9
+1096,Indonesia,2016,F,Female,71.8
+1097,Indonesia,2015,F,Female,71.6
+1098,Indonesia,2022,_T,Total,68.3
+1099,Indonesia,2021,_T,Total,67.6
+1100,Indonesia,2020,_T,Total,68.8
+1101,Indonesia,2019,_T,Total,70.5
+1102,Indonesia,2018,_T,Total,70.3
+1103,Indonesia,2017,_T,Total,69.9
+1104,Indonesia,2016,_T,Total,69.8
+1105,Indonesia,2015,_T,Total,69.7
+1106,Indonesia,2022,M,Male,66.2
+1107,Indonesia,2021,M,Male,65.5
+1108,Indonesia,2020,M,Male,66.7
+1109,Indonesia,2022,F,Female,70.4
+1110,Peru,2020,F,Female,76.8
+1111,Peru,2019,F,Female,78.5
+1112,Peru,2018,F,Female,78.3
+1113,Peru,2019,_T,Total,76.2
+1114,Peru,2018,_T,Total,76.0
+1115,Peru,2017,_T,Total,75.9
+1116,Peru,2016,_T,Total,75.8
+1117,Peru,2015,_T,Total,75.6
+1118,Peru,2017,F,Female,78.1
+1119,Peru,2016,F,Female,78.0
+1120,Peru,2015,F,Female,77.7
+1121,Peru,2022,M,Male,71.3
+1122,Peru,2021,M,Male,70.1
+1123,Peru,2020,M,Male,70.8
+1124,Peru,2019,M,Male,73.9
+1125,Peru,2018,M,Male,73.8
+1126,Peru,2017,M,Male,73.7
+1127,Peru,2016,M,Male,73.7
+1128,Peru,2015,M,Male,73.6
+1129,Peru,2022,_T,Total,73.4
+1130,Peru,2021,_T,Total,72.4
+1131,Peru,2020,_T,Total,73.7
+1132,Peru,2022,F,Female,75.5
+1133,Romania,2018,_T,Total,75.3
+1134,Romania,2017,_T,Total,75.2
+1135,Romania,2016,_T,Total,75.2
+1136,Romania,2019,F,Female,79.5
+1137,Romania,2018,F,Female,79.2
+1138,Romania,2017,F,Female,79.0
+1139,Romania,2016,F,Female,79.0
+1140,Romania,2015,F,Female,78.6
+1141,Romania,2015,_T,Total,74.9
+1142,Romania,2023,M,Male,72.9
+1143,Romania,2022,M,Male,71.3
+1144,Romania,2021,M,Male,69.2
+1145,Romania,2020,M,Male,70.4
+1146,Romania,2019,M,Male,71.9
+1147,Romania,2018,M,Male,71.7
+1148,Romania,2017,M,Male,71.6
+1149,Romania,2016,M,Male,71.6
+1150,Romania,2015,M,Male,71.4
+1151,Romania,2023,F,Female,80.5
+1152,Romania,2022,F,Female,79.2
+1153,Romania,2021,F,Female,76.6
+1154,Romania,2020,F,Female,78.3
+1155,Romania,2023,_T,Total,76.6
+1156,Romania,2022,_T,Total,75.1
+1157,Romania,2021,_T,Total,72.8
+1158,Romania,2020,_T,Total,74.2
+1159,Russia,2017,M,Male,67.5
+1160,Russia,2016,M,Male,66.5
+1161,Russia,2015,M,Male,65.9
+1162,Russia,2019,F,Female,78.2
+1163,Russia,2018,F,Female,77.8
+1164,Russia,2017,F,Female,77.6
+1165,Russia,2016,F,Female,77.1
+1166,Russia,2015,F,Female,76.7
+1167,Russia,2019,_T,Total,73.2
+1168,Russia,2018,_T,Total,72.8
+1169,Russia,2017,_T,Total,72.6
+1170,Russia,2016,_T,Total,71.8
+1171,Russia,2015,_T,Total,71.3
+1172,Russia,2019,M,Male,68.2
+1173,South Africa,2020,F,Female,68.0
+1174,South Africa,2019,F,Female,69.1
+1175,South Africa,2018,F,Female,68.7
+1176,South Africa,2019,_T,Total,66.2
+1177,South Africa,2018,_T,Total,65.7
+1178,South Africa,2017,_T,Total,65.4
+1179,South Africa,2016,_T,Total,64.7
+1180,South Africa,2015,_T,Total,64.0
+1181,South Africa,2017,F,Female,68.4
+1182,South Africa,2016,F,Female,67.8
+1183,South Africa,2015,F,Female,66.8
+1184,South Africa,2022,M,Male,58.6
+1185,South Africa,2021,M,Male,59.5
+1186,South Africa,2020,M,Male,62.2
+1187,South Africa,2019,M,Male,62.8
+1188,South Africa,2018,M,Male,62.2
+1189,South Africa,2017,M,Male,62.0
+1190,South Africa,2016,M,Male,61.3
+1191,South Africa,2015,M,Male,60.7
+1192,South Africa,2022,_T,Total,61.5
+1193,South Africa,2021,_T,Total,62.3
+1194,South Africa,2020,_T,Total,65.3
+1195,South Africa,2022,F,Female,64.2
+1196,Australia,2021,F,Female,85.4
+1197,Austria,2019,M,Male,79.7
+1198,Belgium,2019,F,Female,84.3
+1199,Canada,2021,_T,Total,81.6
+1200,Chile,2019,F,Female,83.4
+1201,Colombia,2021,_T,Total,76.8
+1202,Costa Rica,2019,F,Female,83.0
+1203,Czechia,2019,F,Female,82.2
+1204,Denmark,2019,F,Female,83.5
+1205,Estonia,2019,M,Male,74.5
+1206,Finland,2019,M,Male,79.3
+1207,France,2019,M,Male,79.9
+1208,Germany,2021,M,Male,78.4
+1209,Greece,2019,F,Female,84.2
+1210,Hungary,2019,M,Male,73.1
+1211,Iceland,2019,M,Male,81.7
+1212,Ireland,2021,F,Female,84.3
+1213,Israel,2021,M,Male,80.5
+1214,Italy,2019,M,Male,81.4
+1215,Japan,2021,_T,Total,84.5
+1216,Korea,2021,F,Female,86.6
+1217,Latvia,2019,F,Female,80.1
+1218,Lithuania,2019,M,Male,71.6
+1219,Luxembourg,2019,M,Male,80.2
+1220,Mexico,2019,M,Male,71.8
+1221,Netherlands,2019,M,Male,80.6
+1222,New Zealand,2021,_T,Total,82.3
+1223,Norway,2021,_T,Total,83.2
+1224,Poland,2019,F,Female,81.9
+1225,Portugal,2019,M,Male,78.7
+1226,Slovak Republic,2019,_T,Total,77.8
+1227,Slovenia,2019,_T,Total,81.6
+1228,Spain,2019,F,Female,86.7
+1229,Sweden,2019,F,Female,84.8
+1230,Switzerland,2019,M,Male,82.1
+1231,Türkiye,2021,M,Male,74.8
+1232,United Kingdom,2021,_T,Total,80.5
+1233,United States,2021,F,Female,79.3
+1234,Argentina,2021,M,Male,72.2
+1235,Brazil,2021,F,Female,76.0
+1236,Bulgaria,2019,F,Female,78.8
+1237,China (People’s Republic of),2021,_T,Total,78.2
+1238,Croatia,2019,F,Female,81.6
+1239,India,2021,M,Male,65.8
+1240,Indonesia,2021,F,Female,69.7
+1241,Peru,2021,F,Female,74.7
+1242,Romania,2019,_T,Total,75.6
+1243,Russia,2018,M,Male,67.8
+1244,South Africa,2021,F,Female,65.0
